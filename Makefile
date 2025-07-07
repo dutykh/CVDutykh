@@ -15,7 +15,7 @@ SHORT_DEPS = $(wildcard Short/parts/*.tex) Short/style_short.sty
 MODERN_SRC = Modern/ModernFullCV-Dutykh.tex
 MODERN_PDF = Modern/build/ModernFullCV-Dutykh.pdf
 MODERN_DIR = Modern
-MODERN_DEPS = $(wildcard Modern/parts/*.tex) Modern/style_full.sty
+MODERN_DEPS = $(wildcard Modern/parts/*.tex) $(wildcard Modern/parts/7_research/*.tex) Modern/style_full.sty
 
 # --- Phony Targets ---
 .PHONY: all classic short modern clean help build_classic build_short build_modern
