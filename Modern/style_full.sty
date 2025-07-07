@@ -1,0 +1,137 @@
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+
+\usepackage{a4wide}
+\usepackage{lastpage}
+\usepackage{changepage}
+
+\setlength{\textheight}{1.05\textheight}
+
+\usepackage{ulem}
+\usepackage{sectsty}
+    \allsectionsfont{\sffamily}
+
+\usepackage{textcomp}
+
+\usepackage{indentfirst}
+\usepackage{graphicx}
+\usepackage{psfrag}
+
+\usepackage[dvipsnames]{pstricks}
+\usepackage{epsfig}
+\usepackage{pst-grad} % For gradients
+\usepackage{pst-plot} % For axes
+
+\usepackage{subfigure}
+
+\usepackage{expdlist}
+\usepackage{etaremune}
+\usepackage{tabularray}
+    \UseTblrLibrary{booktabs}
+\usepackage{longtable}
+
+\usepackage{worldflags}
+    \flagsdefault[length=6mm, width=4mm]
+
+\newcommand{\twocolumnsentry}[2]{
+    \begin{minipage}[t]{.7\textwidth}
+        #1
+    \end{minipage}\hfill
+    \begin{minipage}[t]{.3\textwidth}
+        \hfill\textsl{#2}
+    \end{minipage}\\[3mm]
+}
+\newcommand{\twocolumnsentrywide}[2]{
+    \begin{minipage}[t]{.75\textwidth}
+        #1
+    \end{minipage}\hfill
+    \begin{minipage}[t]{.25\textwidth}
+        \hfill\textsl{#2}
+    \end{minipage}\\[3mm]
+}
+
+\usepackage{indentfirst}
+\usepackage[sort,sectionbib]{natbib}
+\usepackage[T1]{fontenc}
+\usepackage[latin1, utf8]{inputenc}
+\usepackage[french, english %, russian
+    ]{babel}
+\DeclareUnicodeCharacter{200B}{{\hskip 0pt}}
+
+\usepackage{footmisc}
+
+\usepackage{color}
+\definecolor{oneblue}{rgb}{0,0.0,0.75}
+\usepackage[colorlinks,
+            urlcolor=oneblue,
+            linkcolor=oneblue,
+            citecolor=oneblue,
+            bookmarksopen=false,
+            pdfpagemode=UseNone,
+            pagebackref]{hyperref}
+\usepackage[hyphenbreaks]{breakurl}
+
+\usepackage{fancyhdr}
+    \setlength{\headheight}{14.5pt}
+    \addtolength{\topmargin}{-2.5pt}
+\pagestyle{fancy}
+
+\usepackage{bold-extra}
+
+\lhead{\scshape{Curriculum vit\ae}}
+\chead{}
+\rhead{\bfseries{\scshape{D.~Dutykh}}}
+
+\lfoot{}
+\cfoot{\thepage~/ \pageref{LastPage}}
+\rfoot{}
+
+\usepackage{etoolbox, refcount}
+
+\newcounter{countitems}
+\newcounter{nextitemizecount}
+\newcommand{\setupcountitems}{%
+  \stepcounter{nextitemizecount}%
+  \setcounter{countitems}{0}%
+  \preto\item{\stepcounter{countitems}}%
+}
+\makeatletter
+\newcommand{\computecountitems}{%
+  \edef\@currentlabel{\number\c@countitems}%
+  \label{countitems@\number\numexpr\value{nextitemizecount}-1\relax}%
+}
+\newcommand{\nextitemizecount}{%
+  \getrefnumber{countitems@\number\c@nextitemizecount}%
+}
+\makeatother
+\AtBeginEnvironment{description}{\setupcountitems}
+\AtEndEnvironment{description}{\computecountitems}
+
+\vfuzz2pt % Don't report over-full v-boxes if over-edge is small
+\hfuzz2pt % Don't report over-full h-boxes if over-edge is small
+
+\numberwithin{equation}{section}
+
+\newtheorem{remark}{Remark}
+
+\makeatletter
+\renewenvironment{titlepage}
+ {%
+  \if@twocolumn
+    \@restonecoltrue\onecolumn
+  \else
+    \@restonecolfalse\newpage
+  \fi
+  \thispagestyle{empty}%
+ }
+ {%
+  \if@restonecol
+    \twocolumn
+  \else
+    \newpage
+  \fi
+ }
+\makeatother
+
+\newcommand{\separator}{\par\vspace{-5mm}\noindent\dotfill\par\vspace{-5mm}\noindent}

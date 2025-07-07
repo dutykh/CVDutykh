@@ -1,0 +1,202 @@
+\separator
+\subsection{Software development}
+
+\begin{itemize}
+  \item[$\blacktriangleright$] Public \texttt{GitHub} repository, which contains most of the codes mentioned hereinbelow: \\
+  \url{https://github.com/dutykh/}
+
+  \item[$\blacktriangleright$] Responding to the need of a growing community of students and researchers who wants to get involved in the field of electrochemical storage systems, NEOLAB offers a new tool dedicated to a modeling domain where almost no open-source solutions exist. Physics-based models of batteries require extensive knowledge in thermodynamics, electro-chemistry, mathematics, material and computer sciences. Based on the idea that a minimum working example is the best way to learn gradually how to model a battery, NEOLAB provides a solution to simulate the behavior of the negative electrode of lead-acid batteries and a framework to investigate other primary and secondary technologies.
+
+  \begin{itemize}
+
+    \item[$\bullet$] \url{https://github.com/dutykh/NEOLAB/}
+
+  \end{itemize}
+
+  Useful reference:
+  \begin{itemize}
+
+    \item[$\bullet$] M.~Cugnet, F.~Gallois, A.~Kirchev and \textbf{D.~Dutykh}. \textit{NEOLAB: A Scilab tool to simulate the Negative Electrode of Lead-Acid Batteries}. SoftwareX, \textbf{22}, 101394, 2023
+
+  \end{itemize}
+
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] The following repository contains a Fourier-type pseudo-spectral solver for the Dysthe--Lo--Mei equation as described in Equations (2.6) -- (2.9) in Lo \& Mei (JFM, 1985) paper mentioned below. A very high order Runge--Kutta scheme is used for time integration with the adaptive time stepping. We employ also the integrating factor technique to slightly remove the stiffness of second order derivatives. The work of this code is illustrated on a simple evolution of the ground state to the low order underlying NLS equation.
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/DystheEq/}
+  \end{itemize}
+  
+  Useful references:
+  \begin{itemize}
+    \item[$\bullet$] E. Lo and C.C. Mei. \textit{A numerical study of water-wave modulation based on a higher-order nonlinear Schr\"odinger equation}, J. Fluid Mech., \textbf{150}, 395--416, 1985
+    \item[$\bullet$] F.~Fedele and \textbf{D.~Dutykh}. \textit{Hamiltonian form and solitary waves of the spatial Dysthe equations}. JETP Letters, \textbf{94}(12), 921--925, 2011 \\
+    \url{http://hal.archives-ouvertes.fr/hal-00633389/}
+    \item[$\bullet$] F.~Fedele and \textbf{D.~Dutykh}. \textit{Hamiltonian description and traveling waves of the spatial Dysthe equations}, 2011 \\
+  \url{http://hal.archives-ouvertes.fr/hal-00632862/}
+  \end{itemize}
+
+\end{itemize}
+
+\begin{itemize}
+  
+  \item[$\blacktriangleright$] This Matlab code computes irrotational 2D periodic steady surface pure gravity waves of arbitrary length in arbitrary depth. The formulation is based on the so-called Babenko equation and pseudo-spectral discretization in the conformal domain. The resulting equation is solved using Petviashvili iteration method.
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/SSGW/}
+  \end{itemize}
+  
+  Useful reference:
+  \begin{itemize}
+    \item[$\bullet$] D.~Clamond and \textbf{D.~Dutykh}. \textit{Accurate fast computation of steady two-dimensional surface gravity waves in arbitrary depth}. J. Fluid Mech., \textbf{844}, 491--518, 2018 \\
+  \url{https://hal.archives-ouvertes.fr/hal-01465813/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+  
+  \item[$\blacktriangleright$] This Matlab code solves the classical nonlinear sine-Gordon equation on graphs using a symplectic Euler scheme in time
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/sineGordonGraph/}
+  \end{itemize}
+  
+  Useful reference:
+  \begin{itemize}
+    \item[$\bullet$] \textbf{D.~Dutykh} and J.-G. Caputo. \textit{Discrete sine-Gordon dynamics on networks}, Submitted, 2016 \\
+  \url{https://hal.archives-ouvertes.fr/hal-01160840/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+  
+  \item[$\blacktriangleright$] A simple Matlab code, which solves numerically 2D Navier--Stokes equations in vorticity formulation using a Fourier-type pseudo-spectral method
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/NavierStokes2D/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] The present Matlab code is an implementation of the full Euler equations solver based on the method of conformal variables. The peculiarity here is that the solver works on general (but smooth) bottoms. The method is described in the reference given below. In a few words it is a Fourier-type pseudo-spectral solver. Standard Matlab time stepper is used to advance the solution in time. The solution is expected to be spectrally accurate
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/Euler_bottom/}
+  \end{itemize}
+  
+  Useful reference:
+  \begin{itemize}
+    \item[$\bullet$] C.~Viotti, \textbf{D.~Dutykh} and F.~Dias. \textit{The conformal-mapping method for surface gravity waves in the presence of variable bathymetry and mean current}, Procedia IUTAM, \textbf{11}, 110--118, 2014 \\
+    \url{http://hal.archives-ouvertes.fr/hal-00855780/}
+  \end{itemize}
+
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] This function computes the steady irrotational surface solitary (classical and generalized) capillary-gravity wave solutions of the full Euler equations (homogeneous, incompressible and perfect fluids). The full Euler system is recast under the form of the Babenko equation using the conformal mapping technique. The wave is defined by its initial Froude and Bond numbers (Fr, Bo) and the result is about twelve digits accurate. The method works for all but the highest waves.
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/BabenkoCG/}
+  \end{itemize}
+  
+  Useful reference:
+  \begin{itemize}
+    \item[$\bullet$] \textbf{D.~Dutykh}, D.~Clamond and A.~Dur\'an. \textit{Efficient computation of capillary-gravity generalized solitary waves}, Wave Motion, \textbf{65}, 1--16, 2016 \\
+  \url{https://hal.archives-ouvertes.fr/hal-01218989/}
+  \end{itemize}
+
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] Fourier-type pseudo-spectral solver of the full Euler equations with the free surface on a fluid layer of infinite depth. The time-dependent fluid domain is transformed into a strip using the conformal mapping technique. Time discretization is done using the embedded Cash-Karp method of the order 5(4). The time integration is improved using the integrating factor technique (i.e. exact integration of linear terms). The solver is initialized to simulate the celebrated Peregrine breather evolution in the full Euler.
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/ConformalEulerDeepWater/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] \texttt{SerreGravityWave.m}: This Matlab script is a pseudo-spectral solver for the Serre-Green-Naghdi equations which model the propagation of long gravity waves. Here, for the sake of simplicity, we restrict our attention to the case of the flat bottom. The numerical scheme is described in the following publication:
+  
+  \begin{itemize}
+    \item[$\bullet$] \textbf{D.~Dutykh}, D.~Clamond, P.~Milewski and D.~Mitsotakis.
+    \textit{Finite volume and pseudo-spectral schemes for the fully
+    nonlinear 1D Serre equations}, European Journal of Applied 
+    Mathematics, \textbf{24}(5), 761--787, 2013 \\
+    \url{http://hal.archives-ouvertes.fr/hal-00587994/}
+    \item[$\bullet$] \url{https://github.com/dutykh/SerreGravityWave/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] \texttt{sG\_solver.epd}: This script allows to solve numerically the sine-Gordon equation in a $Y$--junction geometry using the Finite Element Method (FEM). The scheme is of 2\up{nd} order in space and time. The implixit-explicit time stepping method is of the Crank--Nicolson type and it possesses excellent energy conservation properties.
+  
+  \begin{itemize}
+    \item[$\bullet$] \url{https://github.com/dutykh/sineGordon_FreeFem/}
+  \end{itemize}
+  
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] Participation in the \href{http://www.prace-ri.eu/}{PRACE} DECI-9 project ``\textit{High-end computational modelling of wave energy converters}'' (1\up{st} November 2012 - 31 December 2013). The final report is available at:
+  
+  \begin{itemize}
+    \item[$\bullet$] Ch.~Lalanne, A.~Rafiee, \textbf{D.~Dutykh}, M.~Lysaght, F.~Dias. \textit{Enabling the UCD-SPH code on the Xeon Phi}, 2014 \\
+  \url{http://hal.archives-ouvertes.fr/hal-00927227/}
+  \end{itemize}
+
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] \texttt{SolitaryWave.m}: this script computes in ultra-fast way and potentially to the arbitrary accuracy the solitary waves to the full free-surface Euler equations. The method is based on the conformal map technique and the Petviashvili iteration. Some more technical details and numerical results can be found in the following papers:
+  
+  \begin{itemize}
+    \item[$\bullet$] D.~Clamond and \textbf{D.~Dutykh}. \textit{Fast accurate computation of the fully nonlinear solitary surface gravity waves}. Computers \& Fluids, \textbf{84}, 35--38, 2013 \\
+  \url{http://hal.archives-ouvertes.fr/hal-00759812/}
+  
+    \item[$\bullet$] \textbf{D.~Dutykh} and D.~Clamond. \textit{Efficient computation of steady solitary gravity waves}. Wave Motion, \textbf{51}, 86--99, 2014 \\
+  \url{http://hal.archives-ouvertes.fr/hal-00786077/}
+  
+    \item[$\bullet$] \url{https://github.com/dutykh/BabenkoSolitaryWave/}
+  \end{itemize}
+  \url{www.mathworks.com/matlabcentral/fileexchange/39189-solitary-water-wave/}
+
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] \texttt{OkadaSol.m}: this script computes co-seismic displacements according to the classical Okada solution. For more details you can have a look at the original Okada (1985) paper or this freely available my publication:
+  \begin{itemize}
+    \item[$\bullet$] \textbf{D.~Dutykh}, F.~Dias, \textit{Water waves generated by a moving bottom}. In Book:"Tsunami and Nonlinear Waves", Kundu, A. (Editor), Springer Verlag 2007, Approx. 325 p., 170 illus., Hardcover, ISBN: 978-3-540-71255-8 \\
+    \url{http://hal.archives-ouvertes.fr/hal-00115875/}
+  
+    \item[$\bullet$] https://github.com/dutykh/Okada/
+  \end{itemize}
+  \url{http://www.mathworks.com/matlabcentral/fileexchange/39819}
+  
+\end{itemize}
+
+\begin{itemize}
+
+  \item[$\blacktriangleright$] \textbf{VOLNA}: a finite volume code on triangular unstructured meshes for the simulation of the generation, propagation and runup of tsunami waves. Developed in collaboration with Rapha\"el \textsc{Poncet} and Fr\'ed\'eric \textsc{Dias}. Currently this code is maintained by Irish Centre for High-End Computing (\href{http://www.ichec.ie/}{ICHEC}) and School of Mathematical Sciences, University College Dublin. The code is described and validation tests are given in this article:
+  \begin{itemize}
+    \item[$\bullet$] \textbf{D.~Dutykh}, R.~Poncet, F.~Dias. \textit{The VOLNA code for the numerical modelling of tsunami waves: generation, propagation and inundation}. European Journal of Mechanics B/Fluids, \textbf{30}(6), 598--615, 2011 \\
+  \url{http://hal.archives-ouvertes.fr/hal-00454591/}
+  \end{itemize}
+  
+\end{itemize}
