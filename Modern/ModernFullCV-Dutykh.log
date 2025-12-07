@@ -1,0 +1,2446 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.11.23)  7 DEC 2025 11:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/dds/workspace/CVDutykh/Modern/ModernFullCV-Dutykh.tex
+(/home/dds/workspace/CVDutykh/Modern/ModernFullCV-Dutykh.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 2016/08/01 v2.7 eTeX basic definition package (PEB,DPC)
+\et@xins=\count196
+) (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count197
+\c@section=\count198
+\c@subsection=\count199
+Normal \count register pool exhausted, switching to extended pool.
+\c@subsubsection=\count277
+\c@paragraph=\count278
+\c@subparagraph=\count279
+\c@figure=\count280
+\c@table=\count281
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (./style_full.sty (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen142
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count282
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count283
+\leftroot@=\count284
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count285
+\DOTSCASE@=\count286
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count287
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count288
+\dotsspace@=\muskip17
+\c@parentequation=\count289
+\dspbrk@lvl=\count290
+\tag@help=\toks19
+\row@=\count291
+\column@=\count292
+\maxfields@=\count293
+\andhelp@=\toks20
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (/usr/share/texlive/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+ (/usr/share/texlive/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2023/01/10 v1.2g A4 based page layout
+)) (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2025/01/27 v2.1e lastpage: 2.09 or 2e? (HMM)
+ (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2025/01/27 v2.1e Decide which 2e lastpage version to use (HMM)
+ (/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2025-01-27 v2.1e Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count294
+) 
+)) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count295
+\cp@tempcnt=\count296
+) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box54
+\UL@hyphenbox=\box55
+\UL@skip=\skip54
+\UL@hook=\toks23
+\UL@height=\dimen151
+\UL@pe=\count297
+\UL@pixel=\dimen152
+\ULC@box=\box56
+Package: ulem 2019/11/18
+\ULdepth=\dimen153
+) (/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (/usr/share/texlive/texmf-dist/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count298
+\pfg@scount=\count299
+\pfg@temp=\write3
+) (/usr/share/texlive/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2024/02/02 v0.75 LaTeX wrapper for `PSTricks' (RN,HV)
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+) (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count300
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count301
+\pstFP@xia=\count302
+\pstFP@xib=\count303
+\pstFP@xfa=\count304
+\pstFP@xfb=\count305
+\pstFP@rega=\count306
+\pstFP@regb=\count307
+\pstFP@regs=\count308
+\pstFP@times=\count309
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen156
+\pgfutil@tempdimb=\dimen157
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen158
+\pgf@xa=\dimen159
+\pgf@xb=\dimen160
+\pgf@xc=\dimen161
+\pgf@y=\dimen162
+\pgf@ya=\dimen163
+\pgf@yb=\dimen164
+\pgf@yc=\dimen165
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen166
+\pgfmath@count=\count314
+\pgfmath@box=\box58
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count315
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen167
+\pgffor@skip=\dimen168
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+\psLoopIndex=\count316
+
+`PSTricks' v3.21  <2024/11/16> (tvz,hv)
+\pst@dima=\dimen169
+\pst@dimb=\dimen170
+\pst@dimc=\dimen171
+\pst@dimd=\dimen172
+\pst@dimg=\dimen173
+\pst@dimh=\dimen174
+\pst@dimm=\dimen175
+\pst@dimn=\dimen176
+\pst@dimo=\dimen177
+\pst@dimp=\dimen178
+\pst@hbox=\box59
+\pst@ibox=\box60
+\pst@boxg=\box61
+\pst@cnta=\count317
+\pst@cntb=\count318
+\pst@cntc=\count319
+\pst@cntd=\count320
+\pst@cntg=\count321
+\pst@cnth=\count322
+\pst@cntm=\count323
+\pst@cntn=\count324
+\pst@cnto=\count325
+\pst@cntp=\count326
+\@zero=\count327
+\pst@toks=\toks36
+--- We are running latex or xelatex ---
+(/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con) (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen179
+\psxunit=\dimen180
+\psyunit=\dimen181
+\pst@C@@rType=\count328
+\pslinewidth=\dimen182
+\psk@startLW=\dimen183
+\psk@endLW=\dimen184
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen185
+\pshookwidth=\dimen186
+)
+\pst@customdefs=\toks37
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen187
+\pst@symbolStep=\dimen188
+\pst@symbolWidth=\dimen189
+\pst@symbolLinewidth=\dimen190
+\everypsbox=\toks38
+\psframesep=\dimen191
+\pslabelsep=\dimen192
+\sh@wgridXunit=\dimen193
+\sh@wgridYunit=\dimen194
+\pst@shift=\dimen195
+\ps@imagectr=\count329
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con))
+File: pstricks.tex 2024/11/16 v3.21 `PSTricks' (tvz,hv)
+ (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2024/01/14 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen196
+\epsfysize=\dimen197
+) (/usr/share/texlive/texmf-dist/tex/latex/pst-grad/pst-grad.sty
+Package: pst-grad 2004/07/15 package wrapper for pst-grad.tex (hv)
+ (/usr/share/texlive/texmf-dist/tex/generic/pst-grad/pst-grad.tex `pst-grad' v1.06, 2006/11/27 (tvz,dg,hv))
+File: pst-grad.tex 2006/11/27 1.06 `pst-grad' (tvz)
+) (/usr/share/texlive/texmf-dist/tex/latex/pst-plot/pst-plot.sty
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/pst-xkey.sty
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+) (/usr/share/texlive/texmf-dist/tex/latex/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+ (/usr/share/texlive/texmf-dist/tex/generic/multido/multido.tex  v1.42, 2010/05/14 <tvz>
+\multido@count=\count330
+\multidocount=\count331
+\multido@stuff=\toks39
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
+ (/usr/share/texlive/texmf-dist/tex/generic/pst-plot/pst-plot.tex (/usr/share/texlive/texmf-dist/tex/generic/pst-tools/pst-tools.tex `PST-tools' v0.12, 2021/09/23 (hv)
+\randomi=\count332
+\ranval=\count333
+) (/usr/share/texlive/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex (/usr/share/texlive/texmf-dist/tex/generic/pst-node/pst-node.tex  v1.45, 2024/07/10
+\psrow=\count334
+\pscol=\count335
+\psmatrixcnt=\count336
+\psrowsep=\skip55
+\pscolsep=\skip56
+\pst@args=\count337
+\num@pts=\count338
+\pst@argcnt=\count339
+) (/usr/share/texlive/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex `pst-arrow' v0.05, 2021/11/16 (dr,hv)) (/usr/share/texlive/texmf-dist/tex/generic/pst-3d/pst-3d.tex `PST-3d' v1.11, 2010/02/14 (tvz)) (/usr/share/texlive/texmf-dist/tex/generic/pst-math/pst-math.tex `pst-math' v0.67 , (CJ,hv)) `pstricks-add' v3.94, 2023/04/17 (dr,hv)
+\psparallelogramsep=\dimen198
+\pst@cntC=\count340
+\pst@stepcount=\count341
+\chart@ColorIndex=\dimen199
+Normal \dimen register pool exhausted, switching to extended pool.
+\chart@ColorStep=\dimen256
+\pst@chartHeight=\dimen257
+\pst@chartStackDepth=\dimen258
+\pst@chartStackWidth=\dimen259
+\chart@Toggle=\count342
+\psVectorCtr=\count343
+)  v1.94, 2022/11/21 (tvz,hv)
+\pstRadUnit=\dimen260
+\pstRadUnitInv=\dimen261
+\pst@linecnt=\count344
+\RCD@file=\read2
+\psxlabelsep=\dimen262
+\psylabelsep=\dimen263
+\psk@subticksize=\dimen264
+\pst@xticksizeA=\dimen265
+\pst@xticksizeB=\dimen266
+\pst@xticksizeC=\dimen267
+\pst@yticksizeA=\dimen268
+\pst@yticksizeB=\dimen269
+\pst@yticksizeC=\dimen270
+\@digitcounter=\count345
+\psk@llx=\dimen271
+\psk@lly=\dimen272
+\psk@urx=\dimen273
+\psk@ury=\dimen274
+\pst@xunit=\dimen275
+\pst@yunit=\dimen276
+)
+File: pst-plot.tex 2022/11/21 1.94 `pst-plot' (tvz,hv)
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen277
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen278
+\subfiglabelskip=\skip60
+\c@subfigure=\count346
+\c@lofdepth=\count347
+\c@subtable=\count348
+\c@lotdepth=\count349
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+) (/usr/share/texlive/texmf-dist/tex/latex/expdlist/expdlist.sty
+Document Substyle `EXPDLIST'. Released 22.09.1999 (V 2.4)
+English Documentation  22.09.99
+\listpartsep=\skip63
+) (/usr/share/texlive/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+\c@EM@itemctr=\count350
+\c@EM@etaremunectr=\count351
+) (/usr/share/texlive/texmf-dist/tex/latex/tabularray/tabularray.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count352
+\l__pdf_internal_box=\box62
+))
+Package: tabularray 2024-02-16 v2024A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count353
+\l__tblr_c_int=\count354
+\l__tblr_r_int=\count355
+\l__tblr_d_dim=\dimen279
+\l__tblr_h_dim=\dimen280
+\l__tblr_o_dim=\dimen281
+\l__tblr_p_dim=\dimen282
+\l__tblr_q_dim=\dimen283
+\l__tblr_r_dim=\dimen284
+\l__tblr_s_dim=\dimen285
+\l__tblr_t_dim=\dimen286
+\l__tblr_v_dim=\dimen287
+\l__tblr_w_dim=\dimen288
+\l__tblr_a_box=\box63
+\l__tblr_b_box=\box64
+\l__tblr_c_box=\box65
+\l__tblr_d_box=\box66
+\g__tblr_table_count_int=\count356
+\c@rownum=\count357
+\c@colnum=\count358
+\c@rowcount=\count359
+\c@colcount=\count360
+\abovesep=\dimen289
+\belowsep=\dimen290
+\leftsep=\dimen291
+\rightsep=\dimen292
+\g_tblr_level_int=\count361
+\g__tblr_data_row_key_count_int=\count362
+\g__tblr_data_column_key_count_int=\count363
+\g__tblr_data_cell_key_count_int=\count364
+\g__tblr_array_int=\count365
+\l__tblr_key_count_int=\count366
+\l__tblr_key_quotient_int=\count367
+\l__tblr_key_quotient_two_int=\count368
+\l__tblr_key_remainder_int=\count369
+\g__tblr_data_str_value_count_int=\count370
+\rulewidth=\dimen293
+\l__tblr_strut_dp_dim=\dimen294
+\l__tblr_strut_ht_dim=\dimen295
+\g__tblr_cell_wd_dim=\dimen296
+\g__tblr_cell_ht_dim=\dimen297
+\g__tblr_cell_head_dim=\dimen298
+\g__tblr_cell_foot_dim=\dimen299
+\l__column_target_dim=\dimen300
+\l__tblr_caption_box=\box67
+\l__tblr_caption_left_box=\box68
+\l__tblr_row_head_box=\box69
+\l__tblr_row_foot_box=\box70
+\l__tblr_row_head_foot_dim=\dimen301
+\tablewidth=\dimen302
+\l__tblr_table_firsthead_box=\box71
+\l__tblr_table_middlehead_box=\box72
+\l__tblr_table_lasthead_box=\box73
+\l__tblr_table_firstfoot_box=\box74
+\l__tblr_table_middlefoot_box=\box75
+\l__tblr_table_lastfoot_box=\box76
+\l__tblr_remain_height_dim=\dimen303
+\l__tblr_long_from_int=\count371
+\l__tblr_long_to_int=\count372
+\l__tblr_curr_i_int=\count373
+\l__tblr_prev_i_int=\count374
+\l__tblr_table_page_int=\count375
+\l__tblr_table_head_box=\box77
+\l__tblr_table_foot_box=\box78
+\l__tblr_table_head_foot_dim=\dimen304
+\l__tblr_table_head_body_foot_dim=\dimen305
+\l__tblr_table_box=\box79
+\l__tblr_table_hlines_box=\box80
+\l__tblr_hline_box=\box81
+\l__tblr_row_box=\box82
+\l__tblr_col_o_wd_dim=\dimen306
+\l__tblr_col_b_wd_dim=\dimen307
+\l__tblr_hline_leftskip_dim=\dimen308
+\l__tblr_hline_rightskip_dim=\dimen309
+\l__tblr_row_ht_dim=\dimen310
+\l__tblr_row_dp_dim=\dimen311
+\l__tblr_row_abovesep_dim=\dimen312
+\l__tblr_row_belowsep_dim=\dimen313
+\l__tblr_row_vlines_box=\box83
+\l__tblr_vline_box=\box84
+\l__tblr_cell_box=\box85
+\l__row_upper_dim=\dimen314
+\l__row_lower_dim=\dimen315
+\l__row_vpace_dim=\dimen316
+\l__tblr_vline_aboveskip_dim=\dimen317
+\l__tblr_vline_belowskip_dim=\dimen318
+\l__tblr_cell_wd_dim=\dimen319
+\l__tblr_cell_ht_dim=\dimen320
+\l__tblr_diag_box=\box86
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen321
+\lightrulewidth=\dimen322
+\cmidrulewidth=\dimen323
+\belowrulesep=\dimen324
+\belowbottomsep=\dimen325
+\aboverulesep=\dimen326
+\abovetopsep=\dimen327
+\cmidrulesep=\dimen328
+\cmidrulekern=\dimen329
+\defaultaddspace=\dimen330
+\@cmidla=\count376
+\@cmidlb=\count377
+\@aboverulesep=\dimen331
+\@belowrulesep=\dimen332
+\@thisruleclass=\count378
+\@lastruleclass=\count379
+\@thisrulewidth=\dimen333
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count380
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count381
+\LTcapwidth=\dimen334
+\LT@head=\box87
+\LT@firsthead=\box88
+\LT@foot=\box89
+\LT@lastfoot=\box90
+\LT@gbox=\box91
+\LT@cols=\count382
+\LT@rows=\count383
+\c@LT@tables=\count384
+\c@LT@chunks=\count385
+\LT@p@ftn=\toks40
+) (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflags.sty (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen335
+\pgf@y=\dimen336
+\pgf@xa=\dimen337
+\pgf@ya=\dimen338
+\pgf@xb=\dimen339
+\pgf@yb=\dimen340
+\pgf@xc=\dimen341
+\pgf@yc=\dimen342
+\pgf@xd=\dimen343
+\pgf@yd=\dimen344
+\w@pgf@writea=\write4
+\r@pgf@reada=\read3
+\c@pgf@counta=\count386
+\c@pgf@countb=\count387
+\c@pgf@countc=\count388
+\c@pgf@countd=\count389
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count390
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count391
+\pgfsyssoftpath@bigbuffer@items=\count392
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen345
+\pgf@picmaxx=\dimen346
+\pgf@picminy=\dimen347
+\pgf@picmaxy=\dimen348
+\pgf@pathminx=\dimen349
+\pgf@pathmaxx=\dimen350
+\pgf@pathminy=\dimen351
+\pgf@pathmaxy=\dimen352
+\pgf@xx=\dimen353
+\pgf@xy=\dimen354
+\pgf@yx=\dimen355
+\pgf@yy=\dimen356
+\pgf@zx=\dimen357
+\pgf@zy=\dimen358
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen359
+\pgf@path@lasty=\dimen360
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen361
+\pgf@shorten@start@additional=\dimen362
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box92
+\pgf@hbox=\box93
+\pgf@layerbox@main=\box94
+\pgf@picture@serial@count=\count393
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen363
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen364
+\pgf@pt@y=\dimen365
+\pgf@pt@temp=\dimen366
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen367
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen368
+\pgf@sys@shading@range@num=\count394
+\pgf@shadingcount=\count395
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box95
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box96
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen369
+\pgf@nodesepend=\dimen370
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count396
+\pgfplotmarksize=\dimen371
+)
+\tikz@lastx=\dimen372
+\tikz@lasty=\dimen373
+\tikz@lastxsaved=\dimen374
+\tikz@lastysaved=\dimen375
+\tikz@lastmovetox=\dimen376
+\tikz@lastmovetoy=\dimen377
+\tikzleveldistance=\dimen378
+\tikzsiblingdistance=\dimen379
+\tikz@figbox=\box97
+\tikz@figbox@bg=\box98
+\tikz@tempbox=\box99
+\tikz@tempbox@bg=\box100
+\tikztreelevel=\count397
+\tikznumberofchildren=\count398
+\tikznumberofcurrentchild=\count399
+\tikz@fig@count=\count400
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count401
+\pgfmatrixcurrentcolumn=\count402
+\pgf@matrix@numberofcolumns=\count403
+)
+\tikz@expandcount=\count404
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box101
+\pgfnodeparttwobox=\box102
+\pgfnodepartthreebox=\box103
+\pgfnodepartfourbox=\box104
+\pgfnodeparttwentybox=\box105
+\pgfnodepartnineteenbox=\box106
+\pgfnodeparteighteenbox=\box107
+\pgfnodepartseventeenbox=\box108
+\pgfnodepartsixteenbox=\box109
+\pgfnodepartfifteenbox=\box110
+\pgfnodepartfourteenbox=\box111
+\pgfnodepartthirteenbox=\box112
+\pgfnodeparttwelvebox=\box113
+\pgfnodepartelevenbox=\box114
+\pgfnodeparttenbox=\box115
+\pgfnodepartninebox=\box116
+\pgfnodeparteightbox=\box117
+\pgfnodepartsevenbox=\box118
+\pgfnodepartsixbox=\box119
+\pgfnodepartfivebox=\box120
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfpu.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex))
+\tikz@math@for@depth=\count405
+\tikz@math@dimen=\dimen380
+\tikz@math@toks=\toks44
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.text.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen381
+\pgfdecoratedremainingdistance=\dimen382
+\pgfdecoratedinputsegmentcompleteddistance=\dimen383
+\pgfdecoratedinputsegmentremainingdistance=\dimen384
+\pgf@decorate@distancetomove=\dimen385
+\pgf@decorate@repeatstate=\count406
+\pgfdecorationsegmentamplitude=\dimen386
+\pgfdecorationsegmentlength=\dimen387
+)
+\tikz@lib@dec@box=\box121
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.text.code.tex
+\pgf@lib@dec@text@box=\box122
+)
+\tikz@lib@dec@te@box=\box123
+)
+\fl@gwidth=\dimen388
+\fl@glength=\dimen389
+\fl@gframe=\dimen390
+) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count407
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
+ (/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2024/02/08 v1.3d Input encoding file
+) (/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2022/06/07 v1.3c UTF-8 support
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01C4 (decimal 452)
+   defining Unicode char U+01C5 (decimal 453)
+   defining Unicode char U+01C6 (decimal 454)
+   defining Unicode char U+01C7 (decimal 455)
+   defining Unicode char U+01C8 (decimal 456)
+   defining Unicode char U+01C9 (decimal 457)
+   defining Unicode char U+01CA (decimal 458)
+   defining Unicode char U+01CB (decimal 459)
+   defining Unicode char U+01CC (decimal 460)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+02D9 (decimal 729)
+   defining Unicode char U+02DB (decimal 731)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+1E0D (decimal 7693)
+   defining Unicode char U+1E1E (decimal 7710)
+   defining Unicode char U+1E1F (decimal 7711)
+   defining Unicode char U+1E25 (decimal 7717)
+   defining Unicode char U+1E30 (decimal 7728)
+   defining Unicode char U+1E31 (decimal 7729)
+   defining Unicode char U+1E37 (decimal 7735)
+   defining Unicode char U+1E8E (decimal 7822)
+   defining Unicode char U+1E8F (decimal 7823)
+   defining Unicode char U+1E43 (decimal 7747)
+   defining Unicode char U+1E45 (decimal 7749)
+   defining Unicode char U+1E47 (decimal 7751)
+   defining Unicode char U+1E5B (decimal 7771)
+   defining Unicode char U+1E63 (decimal 7779)
+   defining Unicode char U+1E6D (decimal 7789)
+   defining Unicode char U+1E90 (decimal 7824)
+   defining Unicode char U+1E91 (decimal 7825)
+   defining Unicode char U+1E9E (decimal 7838)
+   defining Unicode char U+1EF2 (decimal 7922)
+   defining Unicode char U+1EF3 (decimal 7923)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+)
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FEFF (decimal 65279)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+FEFF (decimal 65279)
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count408
+\U@D=\dimen391
+\l@unhyphenated=\language18
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read4
+\bbl@dirlevel=\count409
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2024-07-25 v3.6c French support from the babel system
+Package babel Info: Hyphen rules for 'acadian' set to \l@french
+(babel)             (\language10). Reported on input line 91.
+Package babel Info: Hyphen rules for 'canadien' set to \l@french
+(babel)             (\language10). Reported on input line 92.
+\FB@stdchar=\count410
+Package babel Info: Making : an active character on input line 421.
+Package babel Info: Making ; an active character on input line 422.
+Package babel Info: Making ! an active character on input line 423.
+Package babel Info: Making ? an active character on input line 424.
+\FBguill@level=\count411
+\FBold@everypar=\toks47
+\FB@Mht=\dimen392
+\mc@charclass=\count412
+\mc@charfam=\count413
+\mc@charslot=\count414
+\std@mcc=\count415
+\dec@mcc=\count416
+\FB@parskip=\dimen393
+\listindentFB=\dimen394
+\descindentFB=\dimen395
+\labelindentFB=\dimen396
+\labelwidthFB=\dimen397
+\leftmarginFB=\dimen398
+\parindentFFN=\dimen399
+\FBfnindent=\dimen400
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/fr/babel-french.tex
+Package babel Info: Importing font and identification data for french
+(babel)             from babel-fr.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+   defining Unicode char U+200B (decimal 8203)
+ (/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2024/12/24 v6.0g a miscellany of footnote facilities
+\FN@temptoken=\toks48
+\footnotemargin=\dimen401
+\@outputbox@depth=\dimen402
+Package footmisc Info: Declaring symbol style bringhurst on input line 699.
+Package footmisc Info: Declaring symbol style chicago on input line 707.
+Package footmisc Info: Declaring symbol style wiley on input line 716.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 727.
+Package footmisc Info: Declaring symbol style lamport* on input line 747.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 768.
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count417
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen403
+\Hy@linkcounter=\count418
+\Hy@pagecounter=\count419
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count420
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4040.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4040.
+Package hyperref Info: Option `bookmarksopen' set `false' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing ON on input line 4175.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+Package: backref 2023-11-26 v1.44 Bibliographical back referencing
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+) (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+))
+\c@Hy@tempcnt=\count421
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen404
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count422
+\Field@Width=\dimen405
+\Fld@charsize=\dimen406
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing ON on input line 6055.
+Package hyperref Info: Link coloring ON on input line 6060.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count423
+\c@Item=\count424
+\c@Hfootnote=\count425
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+\Fld@listcount=\count426
+\c@bookmark@seq@number=\count427
+\Hy@SectionHShift=\skip70
+) (/usr/share/texlive/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip71
+\f@nch@offset@elh=\skip72
+\f@nch@offset@erh=\skip73
+\f@nch@offset@olh=\skip74
+\f@nch@offset@orh=\skip75
+\f@nch@offset@elf=\skip76
+\f@nch@offset@erf=\skip77
+\f@nch@offset@olf=\skip78
+\f@nch@offset@orf=\skip79
+\f@nch@height=\skip80
+\f@nch@footalignment=\skip81
+\f@nch@widthL=\skip82
+\f@nch@widthC=\skip83
+\f@nch@widthR=\skip84
+\@temptokenb=\toks49
+) (/usr/share/texlive/texmf-dist/tex/latex/bold-extra/bold-extra.sty
+Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
+)
+\c@countitems=\count428
+\c@nextitemizecount=\count429
+\c@remark=\count430
+) (./ModernFullCV-Dutykh.aux)
+\openout1 = `ModernFullCV-Dutykh.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count431
+\scratchdimen=\dimen407
+\scratchbox=\box124
+\nofMPsegments=\count432
+\nofMParguments=\count433
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count434
+\MPscratchDim=\dimen408
+\MPnumerator=\count435
+\makeMPintoPDFobject=\count436
+\everyMPtoPDFconversion=\toks51
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/share/texlive/texmf-dist/tex/latex/ninecolors/ninecolors.sty
+Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+LaTeX Info: Redefining \degres on input line 7.
+LaTeX Info: Redefining \up on input line 7.
+Package backref Info: ** backref set up for natbib ** on input line 7.
+Package hyperref Info: Link coloring ON on input line 7.
+ (./ModernFullCV-Dutykh.out) (./ModernFullCV-Dutykh.out)
+\@outlinefile=\write5
+\openout5 = `ModernFullCV-Dutykh.out'.
+
+ (./parts/0_cover.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+[1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-grad.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+Non-PDF special ignored!
+<special> header=pst-3d.pro
+Non-PDF special ignored!
+<special> header=pst-math.pro
+Non-PDF special ignored!
+<special> header=pstricks-add.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) (./ModernFullCV-Dutykh.toc
+
+[2])
+\tf@toc=\write6
+\openout6 = `ModernFullCV-Dutykh.toc'.
+
+ (./parts/1_infos.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+[3]) (./parts/2_awards.tex
+
+[4]) (./parts/3_patents.tex
+
+[5]
+Overfull \hbox (9.54579pt too wide) in paragraph at lines 19--23
+[][]$\T1/cmtt/m/n/10 https : / / patentimages . storage . googleapis . com / 53 / b9 / 14 / f5d40fbcc8116f / US20220405346A1 .
+ []
+
+
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 19--23
+\T1/cmr/m/n/12 Sylvain \T1/cmr/m/sc/12 Lespinats \T1/cmr/m/n/12 (CEA), Benoît \T1/cmr/m/sc/12 Colange \T1/cmr/m/n/12 (CEA), Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/USMB)
+ []
+
+
+Overfull \hbox (11.19785pt too wide) in paragraph at lines 23--26
+[][]$\T1/cmtt/m/n/10.95 https : / / worldwide . espacenet . com / publicationDetails / biblio ? CC = CN & NR = 114902214 &
+ []
+
+
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 23--26
+\T1/cmr/m/n/12 Sylvain \T1/cmr/m/sc/12 Lespinats \T1/cmr/m/n/12 (CEA), Benoît \T1/cmr/m/sc/12 Colange \T1/cmr/m/n/12 (CEA), Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/USMB)
+ []
+
+
+
+[6]
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 27--31
+\T1/cmr/m/n/12 Sylvain \T1/cmr/m/sc/12 Lespinats \T1/cmr/m/n/12 (CEA), Benoît \T1/cmr/m/sc/12 Colange \T1/cmr/m/n/12 (CEA), Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/USMB)
+ []
+
+
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 35--39
+\T1/cmr/m/n/12 Sylvain \T1/cmr/m/sc/12 Lespinats \T1/cmr/m/n/12 (CEA), Benoît \T1/cmr/m/sc/12 Colange \T1/cmr/m/n/12 (CEA), Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/USMB)
+ []
+
+
+Overfull \hbox (5.53146pt too wide) in paragraph at lines 39--43
+\T1/cmr/m/n/12 Sylvain \T1/cmr/m/sc/12 Lespinats \T1/cmr/m/n/12 (CEA), Benoît \T1/cmr/m/sc/12 Colange \T1/cmr/m/n/12 (CEA), Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/USMB)
+ []
+
+) (./parts/4_experience.tex
+Overfull \hbox (17.6248pt too wide) in paragraph at lines 5--6
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 8--19
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--19
+
+ []
+
+
+
+[7]) (./parts/5_education.tex
+Underfull \hbox (badness 1708) in paragraph at lines 4--4
+[]\T1/cmr/m/n/12 PhD in Ap-plied Math-e-mat-ics at [][]CMLA[][], Ecole Nor-male
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 16--16
+\T1/cmr/m/it/12 ho-mo-ge-neous elas-tic layer\T1/cmr/m/n/12 '' un-der the su-per-vi-sion of
+ []
+
+
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 2--19
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--19
+
+ []
+
+
+
+[8]
+
+[9]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+) (./parts/6_skills.tex
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 45--1
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--1
+
+ []
+
+
+
+[10]
+Overfull \hbox (2.61047pt too wide) in paragraph at lines 4--6
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+\flagwidth=\dimen409
+\flaglength=\dimen410
+\flagframe=\dimen411
+(/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_UA.tex)
+\flagwidth=\dimen412
+\flaglength=\dimen413
+\flagframe=\dimen414
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_UA.tex)
+\flagwidth=\dimen415
+\flaglength=\dimen416
+\flagframe=\dimen417
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_RU.tex)
+\flagwidth=\dimen418
+\flaglength=\dimen419
+\flagframe=\dimen420
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_RU.tex)
+\flagwidth=\dimen421
+\flaglength=\dimen422
+\flagframe=\dimen423
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_FR.tex)
+\flagwidth=\dimen424
+\flaglength=\dimen425
+\flagframe=\dimen426
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_FR.tex)
+\flagwidth=\dimen427
+\flaglength=\dimen428
+\flagframe=\dimen429
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_GB.tex
+\b=\dimen430
+\h=\dimen431
+\lwb=\dimen432
+\lws=\dimen433
+)
+\flagwidth=\dimen434
+\flaglength=\dimen435
+\flagframe=\dimen436
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_GB.tex
+\b=\dimen437
+\h=\dimen438
+\lwb=\dimen439
+\lws=\dimen440
+)
+\flagwidth=\dimen441
+\flaglength=\dimen442
+\flagframe=\dimen443
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_IT.tex)
+\flagwidth=\dimen444
+\flaglength=\dimen445
+\flagframe=\dimen446
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_IT.tex)
+\flagwidth=\dimen447
+\flaglength=\dimen448
+\flagframe=\dimen449
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_AE.tex)
+\flagwidth=\dimen450
+\flaglength=\dimen451
+\flagframe=\dimen452
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_AE.tex)
+> Step: build the whole table.
+\flagwidth=\dimen453
+\flaglength=\dimen454
+\flagframe=\dimen455
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_UA.tex)
+\flagwidth=\dimen456
+\flaglength=\dimen457
+\flagframe=\dimen458
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_UA.tex)
+\flagwidth=\dimen459
+\flaglength=\dimen460
+\flagframe=\dimen461
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_RU.tex)
+\flagwidth=\dimen462
+\flaglength=\dimen463
+\flagframe=\dimen464
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_RU.tex)
+\flagwidth=\dimen465
+\flaglength=\dimen466
+\flagframe=\dimen467
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_FR.tex)
+\flagwidth=\dimen468
+\flaglength=\dimen469
+\flagframe=\dimen470
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_FR.tex)
+\flagwidth=\dimen471
+\flaglength=\dimen472
+\flagframe=\dimen473
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_GB.tex
+\b=\dimen474
+\h=\dimen475
+\lwb=\dimen476
+\lws=\dimen477
+)
+\flagwidth=\dimen478
+\flaglength=\dimen479
+\flagframe=\dimen480
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_GB.tex
+\b=\dimen481
+\h=\dimen482
+\lwb=\dimen483
+\lws=\dimen484
+)
+\flagwidth=\dimen485
+\flaglength=\dimen486
+\flagframe=\dimen487
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_IT.tex)
+\flagwidth=\dimen488
+\flaglength=\dimen489
+\flagframe=\dimen490
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_IT.tex)
+\flagwidth=\dimen491
+\flaglength=\dimen492
+\flagframe=\dimen493
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_AE.tex)
+\flagwidth=\dimen494
+\flaglength=\dimen495
+\flagframe=\dimen496
+ (/usr/share/texlive/texmf-dist/tex/latex/worldflags/worldflag_AE.tex)) (./parts/7_research.tex
+
+[11]
+
+[12]) (./parts/7_research/1_scientific_interests.tex
+
+[13]) (./parts/7_research/2_theses.tex
+
+[14]
+
+[15]) (./parts/7_research/3_list_present_past_collaborators.tex
+Overfull \hbox (8.85085pt too wide) in paragraph at lines 9--10
+[]\T1/cmr/m/n/12 Laboratoire Mor-pho-dy-namique Con-ti-nen-tale et Côtière (UMR 6143 M2C),
+ []
+
+
+Overfull \hbox (12.92328pt too wide) in paragraph at lines 12--13
+[]\T1/cmr/m/n/12 Laboratoire Jean Kuntz-mann (LJK), Uni-ver-sité Greno-ble Alpes,
+ []
+
+
+
+[16]
+Overfull \hbox (2.74623pt too wide) in paragraph at lines 15--16
+[]\T1/cmr/m/n/12 BCAM -- Basque Cen-ter for Ap-plied Math-e-mat-ics, Bil-bao, Spain 
+ []
+
+
+Overfull \hbox (2.57162pt too wide) in paragraph at lines 21--22
+[]\T1/cmr/m/n/12 Department of Physics, Si-mon Fraser Uni-ver-sity, Burn-aby, Canada 
+ []
+
+
+Overfull \hbox (5.85283pt too wide) in paragraph at lines 25--26
+[]\T1/cmr/m/n/12 Mathematics De-part-ment, Khal-ifa Uni-ver-sity of Sci-ence and Tech-
+ []
+
+
+
+[17]
+Overfull \hbox (3.08759pt too wide) in paragraph at lines 39--40
+[]\T1/cmr/m/n/12 Laboratoire de Math-é-ma-tiques (LAMA), Uni-ver-sité Savoie Mont Blanc,
+ []
+
+
+Overfull \hbox (21.85655pt too wide) in paragraph at lines 41--42
+[]\T1/cmr/m/n/12 Laboratoire LOCIE UMR 5271, Poly-tech Annecy--Chambéry, Le Bourget-
+ []
+
+
+Overfull \hbox (11.20514pt too wide) in paragraph at lines 48--49
+[]\T1/cmr/m/n/12 Laboratoire Amiénois de Math-é-ma-tique Fon-da-men-tale et Ap-pliquée,
+ []
+
+
+Overfull \hbox (42.17705pt too wide) in paragraph at lines 49--50
+[]\T1/cmr/m/n/12 Department of Math-e-mat-ics and Statis-tics, Uni-ver-sity of Saskatchewan,
+ []
+
+
+
+[18]
+Overfull \hbox (4.47652pt too wide) in paragraph at lines 50--51
+[]\T1/cmr/m/n/12 Laboratoire LOCIE UMR 5271, Poly-tech Annecy--Chambéry, Le Bourget-
+ []
+
+
+Overfull \hbox (11.41576pt too wide) in paragraph at lines 54--55
+[]\T1/cmr/m/n/12 CEA Greno-ble/INES, Lab-o-ra-tory for So-lar Sys-tems (L2S), Le Bourget-
+ []
+
+
+Overfull \hbox (28.36069pt too wide) in paragraph at lines 65--66
+[]\T1/cmr/m/n/12 Department of Physics, Uni-ver-sity of Ngaoundéré, Ngaoundéré, Adamawa
+ []
+
+
+Overfull \hbox (6.54463pt too wide) in paragraph at lines 67--68
+[]\T1/cmr/m/n/12 Institut FEMTO-ST, Uni-ver-sity of Franche-Comté, Be-sançon, France 
+ []
+
+
+
+[19]
+Overfull \hbox (8.53163pt too wide) in paragraph at lines 76--77
+[]\T1/cmr/m/n/12 Laboratoire Mag-mas et Vol-cans, Uni-ver-sité Cler-mont Au-vergne, CNRS,
+ []
+
+
+Overfull \hbox (5.57051pt too wide) in paragraph at lines 85--86
+[]\T1/cmr/m/n/12 Centre d'Énergétique et de Ther-mique de Lyon (CETHIL),
+ []
+
+
+
+[20]
+Overfull \hbox (5.09114pt too wide) in paragraph at lines 97--98
+[]\T1/cmr/m/n/12 Université de Tech-nolo-gie de Com-piègne, Com-piègne, France 
+ []
+
+
+
+[21]
+Overfull \hbox (10.98943pt too wide) in paragraph at lines 117--118
+[]\T1/cmr/m/n/12 Faculty of Civil En-gi-neer-ing, Tech-ni-cal Uni-ver-sity of Ko²ice, Ko²ice,
+ []
+
+
+Overfull \hbox (2.54059pt too wide) in paragraph at lines 120--121
+[]\T1/cmr/m/n/12 Laboratoire de Math-é-ma-tiques (LAMA), Uni-ver-sité Savoie Mont Blanc,
+ []
+
+
+Overfull \hbox (20.12366pt too wide) in paragraph at lines 126--127
+[]\T1/cmr/m/n/12 CEA Greno-ble/INES, Lab-o-ra-tory for So-lar Sys-tems (L2S), Le Bourget-
+ []
+
+
+
+[22]
+Overfull \hbox (29.7763pt too wide) in paragraph at lines 129--130
+[]\T1/cmr/m/n/12 Laboratoire d'Ingénierie et Matéri-aux, Uni-ver-sité Has-san II, Casablanca,
+ []
+
+
+Overfull \hbox (7.95676pt too wide) in paragraph at lines 130--131
+[]\T1/cmr/m/n/12 (formerly at) Irish Cen-tre for High-End Com-put-ing (ICHEC), Dublin,
+ []
+
+
+Overfull \hbox (10.16026pt too wide) in paragraph at lines 134--135
+[]\T1/cmr/m/n/12 Laboratoire Mor-pho-dy-namique Con-ti-nen-tale et Côtière (UMR 6143 M2C),
+ []
+
+
+Overfull \hbox (5.828pt too wide) in paragraph at lines 139--140
+[]\T1/cmr/m/n/12 Department of Math-e-mat-ics, Ra-makr-ishna Mis-sion Vivekananda
+ []
+
+
+Overfull \hbox (20.12494pt too wide) in paragraph at lines 141--142
+[]\T1/cmr/m/n/12 School of Civil En-gi-neer-ing, Uni-ver-siti Sains Malaysia, Malaysia 
+ []
+
+
+Overfull \hbox (4.08095pt too wide) in paragraph at lines 143--144
+[]\T1/cmr/m/n/12 Faculty of Ap-plied Sci-ence, Uni-ver-siti Teknologi
+ []
+
+
+
+[23]
+Overfull \hbox (16.70285pt too wide) in paragraph at lines 149--150
+[]\T1/cmr/m/n/12 CEA Greno-ble/INES, Lab-o-ra-tory for So-lar Sys-tems (L2S), Le Bourget-
+ []
+
+
+Overfull \hbox (18.69374pt too wide) in paragraph at lines 157--158
+[]\T1/cmr/m/n/12 Laboratoire LOCIE UMR 5271, Poly-tech Annecy--Chambéry, Le Bourget-
+ []
+
+
+
+[24]
+Overfull \hbox (14.20808pt too wide) in paragraph at lines 171--172
+[]\T1/cmr/m/n/12 Department of Math-e-mat-i-cal Sci-ences and Cen-ter for Non-lin-ear Anal-y-sis, Carnegie
+ []
+
+
+
+[25]
+Overfull \hbox (17.79527pt too wide) in paragraph at lines 185--186
+[]\T1/cmr/m/n/12 Laboratoire de Math-é-ma-tiques Raphaël Salem (UMR 6085), l'Université
+ []
+
+
+Overfull \hbox (13.12047pt too wide) in paragraph at lines 192--193
+[]\T1/cmr/m/n/12 Department of The-o-ret-i-cal Physics, In-sti-tute of Physics, Kyiv, Ukraine 
+ []
+
+
+
+[26]
+Overfull \hbox (12.87361pt too wide) in paragraph at lines 201--202
+[]\T1/cmr/m/n/12 Laboratoire génie civil et bâ-ti-ment (LGCB), École Na-tionale des Travaux
+ []
+
+
+Overfull \hbox (18.76569pt too wide) in paragraph at lines 212--213
+[]\T1/cmr/m/n/12 Laboratoire In-teruni-ver-si-taire de Bi-olo-gie de la Motric-ité (LIBM),
+ []
+
+
+Overfull \hbox (4.58797pt too wide) in paragraph at lines 217--218
+[]\T1/cmr/m/n/12 Faculty of Fish-eries and Food Sci-ence, Uni-ver-siti Malaysia Tereng-
+ []
+
+
+
+[27]) (./parts/7_research/4_editorial_boards_memberships.tex) (./parts/7_research/5_publications.tex
+Overfull \hbox (4.74405pt too wide) in paragraph at lines 8--9
+[]\T1/cmr/m/n/12 Citations statis-tics: [][]$\T1/cmtt/m/n/12 https : / / scholar . google . com / citations ? user = cvOVca4AAAAJ$[][] 
+ []
+
+
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+Overfull \hbox (3.10663pt too wide) in paragraph at lines 307--309
+[]\T1/cmr/m/n/12 E. Din-vay, \T1/cmr/bx/n/12 D. Du-tykh \T1/cmr/m/n/12 and H. Kalisch. \T1/cmr/m/it/12 A com-par-a-tive study of bi-directional Whitham
+ []
+
+
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+Overfull \hbox (3.38148pt too wide) in paragraph at lines 454--456
+[]\T1/cmr/bx/n/12 D. Du-tykh \T1/cmr/m/n/12 and D. Ionescu--Kruse. \T1/cmr/m/it/12 Trav-el-ling wave so-lu-tions for some two-component
+ []
+
+
+
+[41]
+
+[42]
+Overfull \hbox (10.38255pt too wide) in paragraph at lines 518--520
+[]\T1/cmr/m/n/12 M. Hunt and \T1/cmr/bx/n/12 D. Du-tykh\T1/cmr/m/n/12 . \T1/cmr/m/it/12 Visco-potential flows in elec-tro-hy-dro-dy-nam-ics\T1/cmr/m/n/12 , Phys. Lett. A,
+ []
+
+
+
+[43]
+Overfull \hbox (39.74016pt too wide) in paragraph at lines 562--564
+[]\T1/cmr/m/n/12 F. Fedele and \T1/cmr/bx/n/12 D. Du-tykh\T1/cmr/m/n/12 . \T1/cmr/m/it/12 Vor-tex-ons in ax-isym-met-ric Poiseuille pipe flows\T1/cmr/m/n/12 . Eur. Phys. Lett.,
+ []
+
+
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+Overfull \hbox (13.64491pt too wide) in paragraph at lines 766--768
+[][]$\T1/cmtt/m/n/12 https : / / www . esann . org / sites / default / files / proceedings / 2022 / ES2022-[]26 . pdf$[][] 
+ []
+
+
+Overfull \hbox (80.6658pt too wide) in paragraph at lines 773--775
+[][]$\T1/cmtt/m/n/10.95 https : / / proceedings . neurips . cc / paper / 2020 / hash / 99607461cdb9c26e2bd5f31b12dcf27a-[]Abstract .
+ []
+
+
+
+[49]
+
+[50]
+
+[51]
+
+[52]
+Overfull \hbox (2.43497pt too wide) in paragraph at lines 891--893
+\T1/cmr/m/it/12 Haz-ard of Splay and Nor-mal Faults in the West-ern Makran/Iran\T1/cmr/m/n/12 , The Sec-ond Eurasian
+ []
+
+
+Overfull \hbox (19.3184pt too wide) in paragraph at lines 891--893
+[][]$\T1/cmtt/m/n/12 https : / / www . researchgate . net / publication / 343336669 _ Probabilistic _ Tsunami _
+ []
+
+
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 928--929
+
+ []
+
+
+
+[54]
+Overfull \hbox (30.02492pt too wide) in paragraph at lines 977--978
+\T1/cmr/m/n/12 matic Con-fer-ence on Multi-scale Com-pu-ta-tional Meth-ods for Solids and Flu-ids. A. Ibrahim-
+ []
+
+
+
+[55]
+
+[56]
+
+[57]
+Overfull \hbox (49.68182pt too wide) in paragraph at lines 1101--1103
+[][]$\T1/cmtt/m/n/10.95 maddmaths . simai . eu / focus / un-[]modello-[]per-[]simulare-[]numericamente-[]le-[]valanghe-[]di-[]neve/$[][] 
+ []
+
+) (./parts/7_research/6_special_issues_editor.tex
+Overfull \hbox (5.45052pt too wide) in paragraph at lines 6--8
+[][]$\T1/cmtt/m/n/10.95 https : / / www . mdpi . com / journal / geosciences / special _ issues / 2011 _ Tohoku _ tsunami/$[][] 
+ []
+
+
+Overfull \hbox (28.43983pt too wide) in paragraph at lines 9--11
+[][]$\T1/cmtt/m/n/10.95 https : / / www . mdpi . com / journal / water / special _ issues / math _ model _ sediment _ transport/$[][] 
+ []
+
+
+
+[58]) (./parts/7_research/7_referee_activities.tex
+
+[59]
+
+[60{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+
+[61]
+
+[62]) (./parts/7_research/8_delivered_talks.tex
+
+[63]
+Overfull \hbox (5.16896pt too wide) in paragraph at lines 45--46
+\T1/cmr/m/n/12 ``Trends in Nu-mer-i-cal and Phys-i-cal Mod-el-ing for In-dus-trial Mul-ti-phase Flows'', Septem-
+ []
+
+
+
+[64]
+
+[65]
+
+[66]
+Overfull \hbox (44.01237pt too wide) in paragraph at lines 126--128
+[][]$\T1/cmtt/m/n/12 https : / / sites . google . com / site / levicivitainstitute / Activities / DiffietySchools /
+ []
+
+
+Overfull \hbox (44.01237pt too wide) in paragraph at lines 132--134
+[][]$\T1/cmtt/m/n/12 https : / / sites . google . com / site / levicivitainstitute / Activities / DiffietySchools /
+ []
+
+
+
+[67]
+Overfull \hbox (2.96265pt too wide) in paragraph at lines 182--183
+[]\T1/cmr/m/it/12 Relaxed vari-a-tional prin-ci-ple for wa-ter wave mod-el-ing\T1/cmr/m/n/12 , Kol-lo-quium Ange-wandte Math-
+ []
+
+
+
+[68]
+Overfull \hbox (3.0751pt too wide) in paragraph at lines 190--191
+[]\T1/cmr/m/it/12 Algebraic ge-om-e-try for shal-low capillary-gravity waves\T1/cmr/m/n/12 , Sem-i-nar: Com-pu-ta-tional Tech-
+ []
+
+
+
+[69]
+
+[70]
+Overfull \hbox (6.97142pt too wide) in paragraph at lines 291--293
+[][]$\T1/cmtt/m/n/12 https : / / www . researchgate . net / publication / 341205844 _ Runup _ of _ long _ waves _
+ []
+
+
+
+[71]
+Overfull \hbox (13.64491pt too wide) in paragraph at lines 294--296
+[][]$\T1/cmtt/m/n/12 https : / / www . researchgate . net / publication / 341175353 _ Run-[]up _ of _ narrow _ and _
+ []
+
+
+Overfull \hbox (19.8184pt too wide) in paragraph at lines 297--299
+[][]$\T1/cmtt/m/n/12 https : / / www . researchgate . net / publication / 336482076 _ Steepening _ and _ Run-[]up _
+ []
+
+
+Overfull \hbox (19.3184pt too wide) in paragraph at lines 303--305
+[][]$\T1/cmtt/m/n/12 https : / / www . researchgate . net / publication / 332268913 _ Nonlinear _ deformation _
+ []
+
+
+Overfull \hbox (32.16539pt too wide) in paragraph at lines 303--305
+\T1/cmtt/m/n/12 and _ run-[]up _ of _ long _ single _ waves _ of _ positive _ polarity _ numerical _ simulations _
+ []
+
+
+
+[72]) (./parts/7_research/9_software_development.tex
+Overfull \hbox (4.66357pt too wide) in paragraph at lines 27--28
+[]\T1/cmr/m/n/12 The fol-low-ing repos-i-tory con-tains a Fourier-type pseudo-spectral solver for the Dysthe--
+ []
+
+
+
+[73]
+Overfull \hbox (13.54196pt too wide) in paragraph at lines 54--56
+[]\T1/cmr/m/n/12 D. Cla-m-ond and \T1/cmr/bx/n/12 D. Du-tykh\T1/cmr/m/n/12 . \T1/cmr/m/it/12 Ac-cu-rate fast com-pu-ta-tion of steady two-dimensional
+ []
+
+
+
+[74]
+
+[75]
+Overfull \hbox (8.47142pt too wide) in paragraph at lines 177--178
+[][]$\T1/cmtt/m/n/12 www . mathworks . com / matlabcentral / fileexchange / 39189-[]solitary-[]water-[]wave/$[][] 
+ []
+
+
+Overfull \hbox (20.04718pt too wide) in paragraph at lines 185--187
+[]\T1/cmr/bx/n/12 D. Du-tykh\T1/cmr/m/n/12 , F. Dias, \T1/cmr/m/it/12 Wa-ter waves gen-er-ated by a mov-ing bot-tom\T1/cmr/m/n/12 . In Book:"Tsunami
+ []
+
+) (./parts/7_research/10_scientific_meetings_organization.tex
+
+[76]
+Overfull \hbox (28.54802pt too wide) in paragraph at lines 21--22
+\T1/cmr/m/sc/12 ruel \T1/cmr/m/n/12 (PFE/INES), Lamia \T1/cmr/m/sc/12 Berrah \T1/cmr/m/n/12 (LIS-TIC/USMB), Flo-rence \T1/cmr/m/sc/12 Besson \T1/cmr/m/n/12 (LOCIE/USMB),
+ []
+
+
+Overfull \hbox (29.79913pt too wide) in paragraph at lines 21--22
+\T1/cmr/m/n/12 Denys \T1/cmr/m/sc/12 Du-tykh \T1/cmr/m/n/12 (CNRS/LAMA/USMB), Christophe \T1/cmr/m/sc/12 Ménézo \T1/cmr/m/n/12 (LOCIE/USMB), Sébastien
+ []
+
+
+Overfull \hbox (29.47969pt too wide) in paragraph at lines 21--22
+\T1/cmr/m/n/12 (LEPMI/USMB), Ioan-nis \T1/cmr/m/sc/12 Tsanakas \T1/cmr/m/n/12 (INES/CEA), Monika \T1/cmr/m/sc/12 Woloszyn \T1/cmr/m/n/12 (LOCIE/USMB),
+ []
+
+
+
+[77]
+Overfull \hbox (32.9372pt too wide) in paragraph at lines 33--34
+\T1/cmr/m/n/12 Wal-ter \T1/cmr/m/sc/12 Craig\T1/cmr/m/n/12 , An-to-nio \T1/cmr/m/sc/12 De-gasperis\T1/cmr/m/n/12 , Ira \T1/cmr/m/sc/12 Di-denkulova\T1/cmr/m/n/12 , Eric \T1/cmr/m/sc/12 Fal-con\T1/cmr/m/n/12 , Roger \T1/cmr/m/sc/12 Grimshaw\T1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (12.15831pt too wide) in paragraph at lines 33--34
+\T1/cmr/m/n/12 Alexey \T1/cmr/m/sc/12 Slun-yaev\T1/cmr/m/n/12 , Pierre \T1/cmr/m/sc/12 Suret\T1/cmr/m/n/12 , Ta-tiana \T1/cmr/m/sc/12 Tal-ipova\T1/cmr/m/n/12 , Elena \T1/cmr/m/sc/12 To-bisch\T1/cmr/m/n/12 , Takuji \T1/cmr/m/sc/12 Waseda 
+ []
+
+
+Overfull \hbox (3.47917pt too wide) in paragraph at lines 38--39
+\T1/cmr/m/n/12 D. \T1/cmr/m/sc/12 Hen-der-son\T1/cmr/m/n/12 , K. \T1/cmr/m/sc/12 Lamb\T1/cmr/m/n/12 , M. \T1/cmr/m/sc/12 Ono-rato\T1/cmr/m/n/12 , E. \T1/cmr/m/sc/12 Peli-novsky\T1/cmr/m/n/12 , H. \T1/cmr/m/sc/12 Se-gur \T1/cmr/m/n/12 and C. \T1/cmr/m/sc/12 Sulem\T1/cmr/m/n/12 ) 
+ []
+
+
+Overfull \hbox (7.24365pt too wide) in paragraph at lines 53--54
+\T1/cmr/m/n/12 rent \T1/cmr/m/sc/12 De-breu\T1/cmr/m/n/12 , Jérémie \T1/cmr/m/sc/12 De-mange\T1/cmr/m/n/12 , Denys \T1/cmr/m/sc/12 Du-tykh\T1/cmr/m/n/12 , Mehmet \T1/cmr/m/sc/12 Er-soy\T1/cmr/m/n/12 , Stéphane \T1/cmr/m/sc/12 Gerbi\T1/cmr/m/n/12 ,
+ []
+
+
+
+[78]
+Overfull \hbox (2.37524pt too wide) in paragraph at lines 63--64
+[]\T1/cmr/m/it/12 List of in-vited speak-ers\T1/cmr/m/n/12 : Cé-line \T1/cmr/m/sc/12 Acary-Robert\T1/cmr/m/n/12 , Médéric \T1/cmr/m/sc/12 Ar-gentina\T1/cmr/m/n/12 , Marx \T1/cmr/m/sc/12 Chhay\T1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (7.71703pt too wide) in paragraph at lines 67--68
+\T1/cmr/m/n/12 Frédéric \T1/cmr/m/sc/12 Chardard\T1/cmr/m/n/12 , Alain \T1/cmr/m/sc/12 De-coster\T1/cmr/m/n/12 , Benoît \T1/cmr/m/sc/12 Des-jardins\T1/cmr/m/n/12 , Lau-rent \T1/cmr/m/sc/12 Desvil-lettes\T1/cmr/m/n/12 ,
+ []
+
+) (./parts/7_research/11_research_projects.tex
+Overfull \hbox (12.4006pt too wide) in paragraph at lines 8--9
+[]\T1/cmr/m/n/12 Project ti-tle: ``\T1/cmr/m/it/12 Non-lin-ear waves in geo-physics and biome-
+ []
+
+
+
+[79]
+Overfull \hbox (22.7138pt too wide) in paragraph at lines 43--44
+\T1/cmr/m/n/12 -- 2015) ``\T1/cmr/m/it/12 In-ter-ac-tion of waves with ob-sta-cles\T1/cmr/m/n/12 ''. Co-op-er-a-tion with Prof. G. \T1/cmr/m/sc/12 Khakimzyanov
+ []
+
+
+Overfull \hbox (6.33073pt too wide) in paragraph at lines 46--47
+[]\T1/cmr/bx/n/12 CNRS/Russian Academy of Sci-ences ex-change pro-gram \T1/cmr/m/n/12 (2009 -- 2011). Project
+ []
+
+
+
+[80]) (./parts/8_teaching.tex
+
+[81]
+
+[82]
+
+[83]
+
+[84]
+
+[85]
+Overfull \hbox (23.0291pt too wide) in paragraph at lines 110--111
+[]\T1/cmr/m/n/12 (2022 -- 2025) \T1/cmr/bx/n/12 Muham-mad Naveed \T1/cmr/bx/sc/12 Za-far\T1/cmr/m/n/12 : Co-supervision with Prof. Pierre \T1/cmr/m/sc/12 Sabatier
+ []
+
+
+Overfull \hbox (18.04723pt too wide) in paragraph at lines 111--112
+[]\T1/cmr/m/n/12 (2022 -- 2025) \T1/cmr/bx/n/12 Flo-rian \T1/cmr/bx/sc/12 Gal-lois\T1/cmr/m/n/12 : Co-supervision with Dr. Mikaël \T1/cmr/m/sc/12 Cugnet \T1/cmr/m/n/12 (CEA/INES)
+ []
+
+
+Overfull \hbox (47.71643pt too wide) in paragraph at lines 114--115
+[]\T1/cmr/m/n/12 (2020 -- 2023) \T1/cmr/bx/n/12 Rim \T1/cmr/bx/sc/12 El Cheikh\T1/cmr/m/n/12 : Co-supervision with Prof. Stéphane \T1/cmr/m/sc/12 Gerbi \T1/cmr/m/n/12 (LAMA/USMB).
+ []
+
+
+
+[86]
+Overfull \hbox (2.98566pt too wide) in paragraph at lines 120--121
+[]\T1/cmr/m/n/12 (2015 -- 2018) Dr. \T1/cmr/bx/n/12 Amin \T1/cmr/bx/sc/12 Rashidi\T1/cmr/m/n/12 : Co-supervision with Prof. Za-her Hos-sein \T1/cmr/m/sc/12 Shomaii
+ []
+
+
+
+[87]
+Overfull \hbox (10.94278pt too wide) in paragraph at lines 143--144
+\T1/cmr/m/n/12 May 2025), sub-ject: ``\T1/cmr/m/it/12 A Spec-tral Ap-proach for Quasi-normal Modes of Non-commutative
+ []
+
+
+
+[88]
+Overfull \hbox (46.382pt too wide) in paragraph at lines 162--163
+\T1/cmr/m/n/12 ject: ``\T1/cmr/m/it/12 Math-e-mat-i-cal model of a porous lead elec-trode\T1/cmr/m/n/12 ''. Co-supervision with Dr. Mikaël \T1/cmr/m/sc/12 Cugnet
+ []
+
+
+
+[89]
+Overfull \hbox (12.15355pt too wide) in paragraph at lines 180--181
+[]\T1/cmr/bx/n/12 Alizée \T1/cmr/bx/sc/12 Dubois \T1/cmr/m/n/12 (June 2012) (L3 ENS Cachan-Bretagne) (co-supervision with F. \T1/cmr/m/sc/12 Dias\T1/cmr/m/n/12 ):
+ []
+
+
+
+[90]
+Overfull \hbox (36.18596pt too wide) in paragraph at lines 198--199
+\T1/cmr/m/n/12 2023, SIAME, Uni-ver-sité de Pau et des Pays de l'Adour, France. Ad-vi-sors: Prof. Volker \T1/cmr/m/sc/12 Roe-
+ []
+
+
+Overfull \hbox (4.37996pt too wide) in paragraph at lines 199--200
+\T1/cmr/m/n/12 toire LOMC UMR 6294, Uni-ver-sité Le Havre, France. Ad-vi-sors: Prof. François \T1/cmr/m/sc/12 Marin
+ []
+
+
+Overfull \hbox (17.9757pt too wide) in paragraph at lines 204--205
+[]\T1/cmr/m/n/12 (examiner) Dr. \T1/cmr/bx/n/12 Georges \T1/cmr/bx/sc/12 Sadaka\T1/cmr/m/n/12 : PhD the-sis ti-tle: ``\T1/cmr/m/it/12 Étude Math-é-ma-tique et numérique
+ []
+
+
+
+[91]) (./parts/9_responsibilities.tex
+Overfull \hbox (2.68779pt too wide) in paragraph at lines 7--8
+[]\T1/cmr/m/n/12 In charge of com-mu-ni-ca-tion (``Cor-re-spon-dant com-mu-ni-ca-tion'') with CNRS and USMB
+ []
+
+
+
+[92]) (./parts/10_interests.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+) (./parts/11_references.tex
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+[93]
+
+[94]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+)
+
+[95] 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(./ModernFullCV-Dutykh.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `ModernFullCV-Dutykh.out' has not changed.
+(rerunfilecheck)             Checksum: 45D7ECC6623AB10906917E504D6EC2B4;12433.
+ ) 
+Here is how much of TeX's memory you used:
+ 35657 strings out of 474556
+ 712814 string characters out of 5755454
+ 1229612 words of memory out of 5000000
+ 57677 multiletter control sequences out of 15000+600000
+ 599866 words of font info for 134 fonts, out of 8000000 for 9000
+ 475 hyphenation exceptions out of 8191
+ 111i,13n,122p,1161b,1413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfxc1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfxc1200.pfb>
+Output written on ModernFullCV-Dutykh.pdf (95 pages, 707269 bytes).
+PDF statistics:
+ 1768 PDF objects out of 2073 (max. 8388607)
+ 1448 compressed objects within 15 object streams
+ 196 named destinations out of 1000 (max. 500000)
+ 717 words of extra memory for PDF output out of 10000 (max. 10000000)
+
