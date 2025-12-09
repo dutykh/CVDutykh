@@ -80,6 +80,7 @@ help:
 
 clean:
 	@echo "Cleaning up temporary files..."
-	@rm -f */build/*.aux */build/*.log */build/*.out */build/*.toc */build/*.nav */build/*.snm
+	@rm -f */build/*.aux */build/*.log */build/*.out */build/*.toc */build/*.nav */build/*.snm */build/*.fls */build/*.fdb_latexmk */build/*.synctex.gz
 	@rm -f Modern/parts/*.aux
+	@rm -f Modern/*.aux Modern/*.log Modern/*.out Modern/*.toc Modern/*.nav Modern/*.snm Modern/*.pdf Modern/*.fdb_latexmk Modern/*.fls Modern/*.synctex.gz
 	@rm -f Classic/*.aux Classic/*.log Classic/*.out Classic/*.toc Classic/*.pdf Classic/*.fdb_latexmk Classic/*.fls Classic/*.synctex.gz
