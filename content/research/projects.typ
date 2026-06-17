@@ -1,0 +1,29 @@
+#import "../../themes/common.typ": *
+
+#separator()
+
+== Research projects
+
+=== Faculty Start-Up Grants
+
+#terms(terms.item[February 2023 – January 2025][Project title: “#emph[Nonlinear waves in geophysics and biomechanics]”, project number: FSU-2023-014. Funded by the Khalifa University of Science and Technology. Total cost: #strong[1 426 232.49 AED]])
+
+#separator()
+
+=== ANR projects
+
+ANR = #link("http://www.agence-nationale-recherche.fr/")[Agence Nationale de la Recherche]
+
+#list([L’École Universitaire de Recherche (EUR) “#strong[Solar Academy]” created at the University Savoie Mont Blanc in the framework of the “Programme d’Investissement d’Avenir” (PIA3). Project leader: Prof. Monika #sc[Woloszyn] (LOCIE/USMB)], [Project #strong[FRAISE] (2016 – 2020): “#emph[Absorbent falling film with free-surface instabilities: exploration]”. Principal investigator: C. #sc[Ruyer]-#sc[Quil] (LOCIE, Polytech Annecy–hambéry and Université Savoie Mont Blanc, Chambéry, France)], [Project #strong[MathOcéan] (2009 – 2012): “#emph[Analyse mathématique en océanographie et applications]”. Principal investigator: D. #sc[Lannes] (DMA, ENS Paris, France)], [Project #strong[HEXECO] (2007 – 2010): “#emph[Hydrodynamique extrême du large à la côte]”. Principal investigator: O. #sc[Kimmoun] (Ecole Centrale Marseille, France)])
+
+#separator()
+
+=== International cooperation projects
+
+#list([#strong[AAP USMB] (2020) of the University Savoie Mont Blanc: “#emph[Genesis and propagation of a tsunami wave on an accretionary prism]”. Co-PI: Prof. Emeritus Christian #sc[Beck] (ISTerre, USMB). Cooperation with Prof. Valery #sc[Liapidevskii] from the Lavrentyev Institute of Hydrodynamics, SB RAS, Novosibirsk, Russia.], [#strong[AAP USMB] (2018) of the University Savoie Mont Blanc: “#emph[Nonlinear waves on adaptive moving meshes]”. Cooperation with the Victoria University of Wellington (New Zealand) and the University of Valladolid (Spain)], [#strong[Partnership Hubert Curien (PHC) – Parrot 2017] (French – Estonian cooperation). Project title: “The effect of beach roughness on sea wave run-up”. Partner: Tallinn University of Technology and Marine Systems Institute, Tallinn, Estonia. French PI: D. #sc[Dutykh] (LAMA, University Savoie Mont Blanc), Estonian PI: I. #sc[Didenkulova] (Marine Systems Institute, TalTech, Estonia)], [#strong[LEA Math Mode] (Laboratoire Européen Associé CNRS Franco–Roumain Mathé-matiques et Modélisation) (2015 – 2016) project “#emph[A variational approach to water waves in shallow waters]”. Cooperation with Dr. Delia #sc[Ionescu-Kruse] (IMAR, Bucharest, Romania)], [#strong[AAP Montagne] (2016) of the University Savoie Mont Blanc: “#emph[Modelling and simulation of sliding masses]”. Cooperation with Prof. Valery #sc[Liapidevskii] from the Lavrentyev Institute of Hydrodynamics, SB RAS, Novosibirsk, Russia], [French–Russian cooperative project (#strong[Convention d’échange]) #No EDC26179 (2014 – 2015) “#emph[Interaction of waves with obstacles]”. Cooperation with Prof. G. #sc[Khakimzyanov] (Institute of Computational Technologies, SB RAS, Novosibirsk, Russia)], [Project #strong[PICS CNRS] (2010 – 2012) “#emph[Numerical simulation of higly nonlinear water waves]”. Cooperation with the Institute of Computational Technologies, Siberian Branch of Russian Academy of Sciences and Novosibirsk State University. French leader: D. #sc[Dutykh] (LAMA, University of Savoie), Russian leader: Yu. #sc[Shokin] (academician, director of Institute of Computational Technologies)], [#strong[Partnership Hubert Curien (PHC) – ULYSSES 2010] (French – Irish cooperation). Project title: “#emph[Numerical Models for Compressible and Incompressible Flows and Applications]”. Partners: School of Mathematical Sciences (University College Dublin), CMLA (ENS de Cachan) and LAMA, University of Savoie. French leader: D. #sc[Dutykh] (LAMA, University of Savoie), Irish leader: T. #sc[Cox] (School of Mathematical Sciences, University College Dublin)], [#strong[CNRS/Russian Academy of Sciences exchange program] (2009 – 2011). Project title “#emph[Analytical and numerical solutions for the models of powder-snow avalanches]”. French leader: D. #sc[Dutykh] (LAMA, University of Savoie), Russian partner leader: V. #sc[Liapidevskii] (Lavrentyev Institute of Hydrodynamics, Novosibirsk)])
+
+#separator()
+
+=== Other projects
+
+#list([Project #strong[PEPS CNRS Énergie] (2017) “#emph[Innovative numerical methods for more energetically efficient buildings]”. Partners: LOCIE UMR 5271 (Polytech Annecy–Chambéry). Project leader: D. #sc[Dutykh] (LAMA, University Savoie Mont Blanc)], [Project #strong[PEPS CNRS InPhyNiTi] (INSMI/INP) (2014 – 2015) “#emph[Faraday instability in  the Hele-Shaw cell]”. Partners: Laboratory J.-A. Dieudonné (LJAD, University of Nice Sophia Antipolis), Laboratory of the Condensed Matter Physics (LPMC, University of Nice Sophia Antipolis), Laboratory of Mathematics (LAMA, University Savoie Mont Blanc). Project leader: D. #sc[Dutykh] (LAMA, University Savoie Mont Blanc)], [Project #strong[PEPS CNRS] (INP) (2010 – 2011) “#emph[Numerical simulation of nonlinear waves in variable medium]”. Partners: Laboratory J.-A. Dieudonné (LJAD, University of Nice Sophia Antipolis), Laboratory of the Condensed Matter Physics (LPMC, University of Nice Sophia Antipolis), Laboratory of Mathematics (LAMA, University of Savoie). Project leader: D. #sc[Dutykh] (LAMA, University of Savoie)], [Contract with région Rhône-Alpes (Cluster Environnement): “#emph[Numerical simulation of snow avalanches]” (2009 – 2010)], [Project #strong[PEPS CNRS] (INS2I) (2009 – 2010) “#emph[PML, l’arithmétique et le calcul: vers l’arithmétique et le calcul numérique efficace et élégamment certifié]”. Partners: teams LIMD and EDPs#up[2] of LAMA, University of Savoie. Project leader: C. #sc[Raffalli] (LAMA, University of Savoie)])
