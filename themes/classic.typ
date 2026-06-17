@@ -89,12 +89,28 @@
     numbering: "1",
   )
 
-  // Table of contents.
+  // Table of contents — entries are clickable links; colour the section
+  // reference (number + title) like in-text links, keep dots & page numbers black.
   pagebreak()
   block(below: 0.8em)[#text(font: sans, size: 1.7em, weight: "bold")[Contents]]
-  show outline.entry: set block(above: 0.65em)
   set outline(indent: 1.2em)
-  show outline.entry.where(level: 1): set text(weight: "bold")
+  show outline.entry: it => {
+    let w = if it.level == 1 { "bold" } else { "regular" }
+    block(above: 0.65em, link(
+      it.element.location(),
+      it.indented(
+        text(fill: link-blue, weight: w, it.prefix()),   // section number → blue
+        {
+          set text(weight: w, fill: ink)                 // dots + page → black (default)
+          text(fill: link-blue, it.body())               // section title → blue
+          [ ]                                            // SpaceElem (matches default inner)
+          box(width: 1fr, it.fill)                       // dot leaders, black
+          [ ]                                            // SpaceElem
+          it.page()                                      // page number, black
+        },
+      ),
+    ))
+  }
   outline(title: none)
 
   pagebreak()
