@@ -2,9 +2,9 @@
 
 == List of present and past collaborators:
 
-#collab-counter.update(227)
+#collab-counter.update(228)
 
-The total number: #strong[227] #emph[(in alphabetical order)]:
+The total number: #strong[228] #emph[(in alphabetical order)]:
 
 #text(size: 0.93em)[
 #set terms(spacing: 0.5em, hanging-indent: 0.8em)
@@ -80,6 +80,7 @@ The total number: #strong[227] #emph[(in alphabetical order)]:
 / Angel #sc[Durán]: Departamento de Matematica Aplicada, Universidad de Valladolid, Valladolid, Spain
 / Collins O. #sc[Edet]: Institute of Engineering Mathematics, University Malaysia Perlis, Arau, Malaysia
 / Gennady #sc[El]: Department: Mathematics, Physics and Electrical Engineering, Northumbria University, Newcastle upon Tyne, UK
+/ Rim #sc[El Cheikh]: Laboratoire de Mathématiques (LAMA), Université Savoie Mont Blanc, Chambéry, France
 / Khadije #sc[El Kadi]: Center for Membrane and Advanced Water Technology, Department of Mechanical Engineering, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates
 / Ramón #sc[Escobedo]: Centre de Recherche sur la Cognition Animale (CRCA UMR 5169), Toulouse, France
 / Joud #sc[Faraji]: Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, UAE

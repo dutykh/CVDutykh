@@ -157,7 +157,7 @@
   for it in items {
     if type(it) == dictionary and it.at("cv-kind", default: none) == "year" {
       cur-year = it.y
-      block(above: 0.9em, below: 0.7em, width: 100%, _year-divider(it.y))
+      block(above: 1.8em, below: 1.5em, width: 100%, _year-divider(it.y))
     } else {
       if track-years and cur-year != none { year-add(cur-year, 1) }
       let n = idx
