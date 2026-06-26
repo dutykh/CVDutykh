@@ -40,9 +40,9 @@
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
   yd("2026"),
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
-  [M.K. Andaristiyan, A. Machmudah, R.E. Poetro, W. Hasbi and #me. #emph[Future Subsequent Ballistic Coefficient Estimation Using Deep Learning for Uncontrolled Reentry Object Prediction]. Accepted to #venue[Acta Astronaut.], 2026],
   [D. Batic, #me and F. Scardigli. #emph[Quasinormal modes of Bonanno–Reuter black holes via the Spectral Method]. Accepted to #venue[Phys. Rev. D], 2026],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. Accepted to #venue[Phys. Rev. D], 2026],
+  [M.K. Andaristiyan, A. Machmudah, R.E. Poetro, W. Hasbi and #me. #emph[Future Subsequent Ballistic Coefficient Estimation Using Deep Learning for Uncontrolled Reentry Object Prediction]. #venue[Acta Astronaut.], #strong[248], 736–749, 2026 #linebreak() #link("https://doi.org/10.1016/j.actaastro.2026.06.022")],
   [A. Rashidi, #me and M. Mokhtari. #emph[Primarily tsunami modeling of the Mw 8.8 Kamchatka Peninsula earthquake on July 29, 2025]. #venue[Nat. Hazards], #strong[122], 450, 2026],
   [D. Batic, C. Boehmer and #me. #emph[Energy conditions in consistent perfect fluid cosmology]. #venue[Ann. Phys.], #strong[491], 170517, 2026 #linebreak() #link("http://arxiv.org/abs/2605.14479/")],
   [D. Batic, #me and M. Sukaiti. #emph[Exact solutions for slowly rotating wormholes in the presence of an anisotropic fluid]. #venue[Class. Quantum Grav.], #strong[43]​(9), 095007, 2026 #linebreak() #link("http://arxiv.org/abs/2605.02555/")],
