@@ -11,6 +11,7 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],
   [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Submitted, 2026],
   [R. El Cheikh, A. Cheviakov, #me and D. Mitsotakis. #emph[Nonlinear Dynamics of Pulsatile Blood Flow in Viscoelastic Vessels: A Dispersive Wave Approach]. Submitted, 2026],
   [M. Sukaiti, D. Batic and #me. #emph[An exact Kerr-like rotating Morris–Thorne wormhole: throat, ergoregion and equatorial shadow]. Submitted, 2026],  // Submitted to Ann. Phys. (ID 83837), 2026.
