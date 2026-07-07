@@ -17,7 +17,6 @@
   [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Submitted, 2026],
   [R. El Cheikh, A. Cheviakov, #me and D. Mitsotakis. #emph[Nonlinear Dynamics of Pulsatile Blood Flow in Viscoelastic Vessels: A Dispersive Wave Approach]. Submitted, 2026],
   [M. Sukaiti, D. Batic and #me. #emph[An exact Kerr-like rotating Morris–Thorne wormhole: throat, ergoregion and equatorial shadow]. Submitted, 2026],  // Submitted to Ann. Phys. (ID 83837), 2026.
-  [D. Batic, #me and M. Sukaiti. #emph[Quasinormal modes of the Kazakov–Solodukhin quantum-corrected black hole: a spectral analysis]. Submitted, 2026],  // Submitted to Eur. Phys. J. C (ID EPJC-26-06-115), 2026; refereeing pending.
   [D. Batic, A. Chrysostomou, A. Cornell and #me. #emph[Quasinormal modes of Schwarzschild de Sitter black holes: spectral branches and the Nariai limit]. Submitted, 2026],
   [D. Batic, A. Chrysostomou, A. Cornell and #me. #emph[Quasinormal modes analysis of a massive scalar field in a Schwarzschild background via the Spectral Method]. Submitted, 2026],
   [D. Batic, #me and M. Sukaiti. #emph[A no-go result for regular GR-connected isotropic Morris–Thorne wormholes in $f(R, T) = R + sigma  R T$ gravity]. Submitted, 2026],  // Rejected by Eur. Phys. J. C (ID EPJC-26-05-359), 2026; transferred to Eur. Phys. J. Plus, still under review.
@@ -41,6 +40,7 @@
 
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
   yd("2026"),
+  [D. Batic, #me and M. Sukaiti. #emph[Quasinormal modes of the Kazakov–Solodukhin quantum-corrected black hole: a spectral analysis]. Accepted to #venue[Eur. Phys. J. C], 2026],
   [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Accepted to #venue[Comput. Appl. Math.], 2026 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic, #me and F. Scardigli. #emph[Quasinormal modes of Bonanno–Reuter black holes via the Spectral Method]. Accepted to #venue[Phys. Rev. D], 2026],
