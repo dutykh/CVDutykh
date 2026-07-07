@@ -25,7 +25,6 @@
   [D. Batic, #me and J. Faraji. #emph[Spectral Method for Eigenvalue Problems in Quantum Mechanics]. Submitted, 2026],  // Under review at J. Comput. Phys. (ID JCOMP-D-26-01762), 2026.
   [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Beyond Black Boxes: Physics-Informed Graph Learning by Architecture for PV System Modelling]. Submitted, 2026],
   [M. Zafar, P. Sabatier, #me, W. Rapuc, R. Paris, A. Piccin, P. Vuillemin and F. Anselmetti. #emph[Human-Enhanced Tsunami Hazard in Large Lakes]. Submitted, 2025],
-  [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Submitted, 2023 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
 ))
 
 === Books
@@ -42,6 +41,7 @@
 
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
   yd("2026"),
+  [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Accepted to #venue[Comput. Appl. Math.], 2026 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic, #me and F. Scardigli. #emph[Quasinormal modes of Bonanno–Reuter black holes via the Spectral Method]. Accepted to #venue[Phys. Rev. D], 2026],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. Accepted to #venue[Phys. Rev. D], 2026],
@@ -49,7 +49,7 @@
   [A. Rashidi, #me and M. Mokhtari. #emph[Primarily tsunami modeling of the Mw 8.8 Kamchatka Peninsula earthquake on July 29, 2025]. #venue[Nat. Hazards], #strong[122], 450, 2026],
   [D. Batic, C. Boehmer and #me. #emph[Energy conditions in consistent perfect fluid cosmology]. #venue[Ann. Phys.], #strong[491], 170517, 2026 #linebreak() #link("http://arxiv.org/abs/2605.14479/")],
   [D. Batic, #me and M. Sukaiti. #emph[Exact solutions for slowly rotating wormholes in the presence of an anisotropic fluid]. #venue[Class. Quantum Grav.], #strong[43]​(9), 095007, 2026 #linebreak() #link("http://arxiv.org/abs/2605.02555/")],
-  [A. Deeb, #me and M. Al Zohbi.  #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part II: Backward difference formulas]. #venue[Comp. Appl. Math.], #strong[45], 355, 2026 #linebreak() #link("http://arxiv.org/abs/2605.06735/")],
+  [A. Deeb, #me and M. Al Zohbi.  #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part II: Backward difference formulas]. #venue[Comput. Appl. Math.], #strong[45], 355, 2026 #linebreak() #link("http://arxiv.org/abs/2605.06735/")],
   [D. Batic, #me and M. Sukaiti. #emph[Noncommutative geometry-inspired wormholes supported by quasi-de Sitter and Chaplygin-like equations of state]. #venue[Nucl. Phys. B], #strong[1025], 117414, 2026 #linebreak() #link("http://arxiv.org/abs/2603.26257/")],
   [M. Hunt and #me. #emph[Free Surface Waves in Electrohydrodynamics with Prescribed Vorticity Distribution]. #venue[Math. Methods Appl. Sci.], #strong[49]​(7), 7068–7081, 2026],
   [D. Batic, #me and M. Sukaiti. #emph[Exact Spinning Morris–Thorne Wormhole: Causal Structure, Shadows, and Multipole Moments]. #venue[Eur. Phys. J. C], #strong[86], 179, 2026 #linebreak() #link("http://arxiv.org/abs/2602.21906/")],
@@ -172,7 +172,7 @@
   [G. Khakimzyanov, #me, Z. Fedotova and D. Mitsotakis. #emph[Dispersive shallow water wave modelling. Part I: Model derivation on a globally flat space], #venue[Commun. Comput. Phys.], #strong[23]​(1), 1–29, 2018 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01547833/")],
   [D. Clamond and #me. #emph[Non-dispersive conservative regularisation of nonlinear shallow water and isothermal Euler equations], #venue[Commun. Nonlinear Sci. Numer. Simulat.], #strong[55], 237–247, 2018 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01509445/")],
   yd("2017"),
-  [G. Khakimzyanov and #me. #emph[On supraconvergence phenomenon for second order centered finite differences on non-uniform grids], #venue[J. Comp. Appl. Math.], #strong[326], 1–14, 2017 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01223522/")],
+  [G. Khakimzyanov and #me. #emph[On supraconvergence phenomenon for second order centered finite differences on non-uniform grids], #venue[J. Comput. Appl. Math.], #strong[326], 1–14, 2017 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01223522/")],
   [M. Chhay, #me, M. Gisclon and Ch. Ruyer-Quil. #emph[New asymptotic heat transfer model in thin liquid films], #venue[Appl. Math. Model.], #strong[48], 844–859, 2017 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01224182/")],
   [D. Mitsotakis, #me, A. Assylbekuly and D. Zhakebayev. #emph[On weakly singular and fully nonlinear travelling shallow capillary-gravity waves in the critical regime], #venue[Phys. Lett. A], #strong[381]​(20), 1719–1726, 2017 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01388481/")],
   [J. Berger, S. Gasparin, #me and N. Mendes. #emph[Accurate numerical simulation of moisture front in porous material], #venue[Building and Environment], #strong[118], 211–224, 2017 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01419018/")],
@@ -190,7 +190,7 @@
   [#me and O. Goubet. #emph[Derivation of dissipative Boussinesq equations using the Dirichlet-to-Neumann operator approach], #venue[Math. Comput. Simul.], #strong[127], 80–93, 2016 #linebreak() #link("http://hal.archives-ouvertes.fr/hal-00596804/")],
   [F. Carbone, #me and G. El. #emph[Macroscopic dynamics of incoherent soliton ensembles: soliton-gas kinetics and direct numerical modeling: Incoherent soliton ensembles], #venue[EPL], #strong[113], 30003, 2016 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01248680/")],
   [M. Chhay, #me and D. Clamond. #emph[On the multi-symplectic structure of the Serre–Green–Naghdi equations], #venue[J. Phys. A: Math. Theor.], #strong[49], 03LT01, 2016 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01221356/")],
-  [G. Khakimzyanov, N. Shokina, #me and D. Mitsotakis. #emph[A new run-up algorithm based on local high-order analytic expansions], #venue[J. Comp. Appl. Math.], #strong[298], 82–96, 2016 #linebreak() #link("http://hal.archives-ouvertes.fr/hal-01084811/")],
+  [G. Khakimzyanov, N. Shokina, #me and D. Mitsotakis. #emph[A new run-up algorithm based on local high-order analytic expansions], #venue[J. Comput. Appl. Math.], #strong[298], 82–96, 2016 #linebreak() #link("http://hal.archives-ouvertes.fr/hal-01084811/")],
   yd("2015"),
   [A. Rafiee, #me and F. Dias. #emph[Numerical simulation of wave impact on a rigid wall using a two-phase compressible SPH method]. #venue[Procedia IUTAM], #strong[18], 123–137, 2015 #linebreak() #link("http://hal.archives-ouvertes.fr/hal-00830054/")],
   [D. Clamond, #me and A. Durán. #emph[A plethora of generalised solitary gravity-capillary water waves], #venue[J. Fluid Mech.], #strong[784], 664–680, 2015 #linebreak() #link("http://hal.archives-ouvertes.fr/hal-01081798/")],
