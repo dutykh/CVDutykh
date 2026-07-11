@@ -11,6 +11,7 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Physics-Informed Graph Learning for Photovoltaic Power and Module Temperature Modelling]. Submitted, 2026],  // Submitted to EPJ PV (ID pv20260050), 2026.
   [D. Batic and #me. #emph[Spectral and Metric Foundations for Cubic Ghost Quantisation]. Submitted, 2026],  // Submitted to Ann. Henri Poincaré, 2026; refereeing pending.
   [D. Batic and #me. #emph[Global and dynamical viability of the T-duality-inspired Bardeen regular black hole]. Submitted, 2026],  // Submitted to Eur. Phys. J. C (ID EPJC-26-07-009), 2026; refereeing pending.
   [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],
@@ -22,7 +23,6 @@
   [D. Batic, #me and M. Sukaiti. #emph[A no-go result for regular GR-connected isotropic Morris–Thorne wormholes in $f(R, T) = R + sigma  R T$ gravity]. Submitted, 2026],  // Rejected by Eur. Phys. J. C (ID EPJC-26-05-359), 2026; transferred to Eur. Phys. J. Plus, still under review.
   [D. Batic, #me. #emph[Spectral Approximation Theory for Quasi-Normal Modes]. Submitted, 2026],
   [D. Batic, #me and J. Faraji. #emph[Spectral Method for Eigenvalue Problems in Quantum Mechanics]. Submitted, 2026],  // Under review at J. Comput. Phys. (ID JCOMP-D-26-01762), 2026.
-  [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Beyond Black Boxes: Physics-Informed Graph Learning by Architecture for PV System Modelling]. Submitted, 2026],
   [M. Zafar, P. Sabatier, #me, W. Rapuc, R. Paris, A. Piccin, P. Vuillemin and F. Anselmetti. #emph[Human-Enhanced Tsunami Hazard in Large Lakes]. Submitted, 2025],
 ))
 
