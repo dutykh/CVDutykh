@@ -11,10 +11,10 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],  // Submitted to Lett. Math. Phys., 2026; refereeing pending.
   [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Physics-Informed Graph Learning for Photovoltaic Power and Module Temperature Modelling]. Submitted, 2026],  // Submitted to EPJ PV (ID pv20260050), 2026.
   [D. Batic and #me. #emph[Spectral and Metric Foundations for Cubic Ghost Quantisation]. Submitted, 2026],  // Submitted to Ann. Henri Poincaré, 2026; refereeing pending.
   [D. Batic and #me. #emph[Global and dynamical viability of the T-duality-inspired Bardeen regular black hole]. Submitted, 2026],  // Submitted to Eur. Phys. J. C (ID EPJC-26-07-009), 2026; refereeing pending.
-  [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],
   [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Submitted, 2026],
   [R. El Cheikh, A. Cheviakov, #me and D. Mitsotakis. #emph[Nonlinear Dynamics of Pulsatile Blood Flow in Viscoelastic Vessels: A Dispersive Wave Approach]. Submitted, 2026],
   [M. Sukaiti, D. Batic and #me. #emph[An exact Kerr-like rotating Morris–Thorne wormhole: throat, ergoregion and equatorial shadow]. Submitted, 2026],  // Submitted to Ann. Phys. (ID 83837), 2026.
