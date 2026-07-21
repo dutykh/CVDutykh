@@ -11,6 +11,7 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [D. Batic, A. Cornell and #me. #emph[Scalar quasinormal modes of Schwarzschild–anti-de Sitter black holes: spectral analysis and generalized boundary conditions]. Submitted, 2026 #linebreak() #link("https://arxiv.org/abs/2607.15731/")],  // Submitted to Eur. Phys. J. C (ID EPJC-26-07-243), 2026; refereeing pending.
   [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],  // Submitted to Lett. Math. Phys., 2026; refereeing pending.
   [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Physics-Informed Graph Learning for Photovoltaic Power and Module Temperature Modelling]. Submitted, 2026],  // Submitted to EPJ PV (ID pv20260050), 2026.
   [D. Batic and #me. #emph[Spectral and Metric Foundations for Cubic Ghost Quantisation]. Submitted, 2026],  // Submitted to Ann. Henri Poincaré, 2026; refereeing pending.
