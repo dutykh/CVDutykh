@@ -11,6 +11,7 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [D. Batic and #me. #emph[Quasinormal modes of Hayward black holes from Schwarzschild to extremality: a comparative spectral analysis]. Submitted, 2026],  // Submitted to Phys. Rev. D (ID es2026jul23_636), 2026; refereeing pending.
   [D. Batic, A. Cornell and #me. #emph[Scalar quasinormal modes of Schwarzschild–anti-de Sitter black holes: spectral analysis and generalized boundary conditions]. Submitted, 2026 #linebreak() #link("https://arxiv.org/abs/2607.15731/")],  // Submitted to Eur. Phys. J. C (ID EPJC-26-07-243), 2026; refereeing pending.
   [D. Batic and #me. #emph[Timelike Growth and the Absence of Tempered Fundamental Solutions for a Lorentzian Noncommutative-Geometry-Inspired Wave Operator]. Submitted, 2026],  // Submitted to Lett. Math. Phys., 2026; refereeing pending.
   [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Physics-Informed Graph Learning for Photovoltaic Power and Module Temperature Modelling]. Submitted, 2026],  // Submitted to EPJ PV (ID pv20260050), 2026.
@@ -41,10 +42,10 @@
 
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
   yd("2026"),
-  [D. Batic, #me and M. Sukaiti. #emph[Quasinormal modes of the Kazakov–Solodukhin quantum-corrected black hole: a spectral analysis]. #venue[Eur. Phys. J. C], #strong[86], 847, 2026 #linebreak() #link("https://doi.org/10.1140/epjc/s10052-026-16102-3")],
   [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Accepted to #venue[Comput. Appl. Math.], 2026 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. Accepted to #venue[Phys. Rev. D], 2026],
+  [D. Batic, #me and M. Sukaiti. #emph[Quasinormal modes of the Kazakov–Solodukhin quantum-corrected black hole: a spectral analysis]. #venue[Eur. Phys. J. C], #strong[86], 847, 2026 #linebreak() #link("https://doi.org/10.1140/epjc/s10052-026-16102-3")],
   [D. Batic, #me and F. Scardigli. #emph[Quasinormal modes of Bonanno–Reuter black holes via the Spectral Method]. #venue[Phys. Rev. D], #strong[114], 024023, 2026 #linebreak() #link("https://doi.org/10.1103/sgt6-kwfl") #linebreak() #link("https://arxiv.org/abs/2607.10199/")],
   [M.K. Andaristiyan, A. Machmudah, R.E. Poetro, W. Hasbi and #me. #emph[Future Subsequent Ballistic Coefficient Estimation Using Deep Learning for Uncontrolled Reentry Object Prediction]. #venue[Acta Astronaut.], #strong[248], 736–749, 2026 #linebreak() #link("https://doi.org/10.1016/j.actaastro.2026.06.022")],
   [A. Rashidi, #me and M. Mokhtari. #emph[Primarily tsunami modeling of the Mw 8.8 Kamchatka Peninsula earthquake on July 29, 2025]. #venue[Nat. Hazards], #strong[122], 450, 2026],
