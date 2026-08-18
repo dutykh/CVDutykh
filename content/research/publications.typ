@@ -18,7 +18,6 @@
   [S. Mukherjee, L. Bou Nassif, I. Tsanakas, H. Colin, S. Giroux-Julien, H. Pabiou, #me and L. Vuillon. #emph[Physics-Informed Graph Learning for Photovoltaic Power and Module Temperature Modelling]. Submitted, 2026],  // Submitted to EPJ PV (ID pv20260050), 2026.
   [D. Batic and #me. #emph[Spectral and Metric Foundations for Cubic Ghost Quantisation]. Submitted, 2026],  // Submitted to Ann. Henri Poincaré, 2026; refereeing pending.
   [D. Batic and #me. #emph[Global and dynamical viability of the T-duality-inspired Bardeen regular black hole]. Submitted, 2026],  // Submitted to Eur. Phys. J. C (ID EPJC-26-07-009), 2026; refereeing pending.
-  [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Submitted, 2026],
   [R. El Cheikh, A. Cheviakov, #me and D. Mitsotakis. #emph[Nonlinear Dynamics of Pulsatile Blood Flow in Viscoelastic Vessels: A Dispersive Wave Approach]. Submitted, 2026],
   [M. Sukaiti, D. Batic and #me. #emph[An exact Kerr-like rotating Morris–Thorne wormhole: throat, ergoregion and equatorial shadow slice]. Submitted, 2026],  // Submitted to Ann. Phys. (ID 83837), 2026.
   [D. Batic, A. Chrysostomou, A. Cornell and #me. #emph[Quasinormal modes of Schwarzschild de Sitter black holes: spectral branches and the Nariai limit]. Submitted, 2026],
@@ -43,6 +42,7 @@
 
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
   yd("2026"),
+  [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Accepted to #venue[Proc. R. Soc. A], 2026],  // Accepted subject to minor revisions by Proc. R. Soc. A (ID RSPA-2026-0600), 17-Aug-2026.
   [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Accepted to #venue[Comput. Appl. Math.], 2026 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. Accepted to #venue[Phys. Rev. D], 2026],
