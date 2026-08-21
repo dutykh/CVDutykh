@@ -42,9 +42,10 @@
 === International peer-reviewed journals
 
 #pub-list(category: "International peer-reviewed journals", track-years: true, (
+  yd("2027"),
+  [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. #venue[Comput. Appl. Math.], #strong[46], 33, 2027 #linebreak() #link("https://doi.org/10.1007/s40314-026-03864-5") #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   yd("2026"),
   [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Accepted to #venue[Proc. R. Soc. A], 2026],  // Accepted subject to minor revisions by Proc. R. Soc. A (ID RSPA-2026-0600), 17-Aug-2026.
-  [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. Accepted to #venue[Comput. Appl. Math.], 2026 #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. #venue[Phys. Rev. D], #strong[114], 044015, 2026 #linebreak() #link("https://doi.org/10.1103/91q6-r3jd") #linebreak() #link("https://arxiv.org/abs/2608.06083/")],
   [D. Batic, #me and M. Sukaiti. #emph[Quasinormal modes of the Kazakov–Solodukhin quantum-corrected black hole: a spectral analysis]. #venue[Eur. Phys. J. C], #strong[86], 847, 2026 #linebreak() #link("https://doi.org/10.1140/epjc/s10052-026-16102-3") #linebreak() #link("https://arxiv.org/abs/2607.19860/")],
