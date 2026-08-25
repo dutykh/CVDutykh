@@ -157,3 +157,13 @@ Useful reference:
   [#strong[LeeWick] — quasi-normal modes of Lee–Wick black holes #linebreak()
   #repo-link("https://github.com/dutykh/LeeWick/")],
 )
+
+#separator()
+
+=== Quantum gravity & mathematical physics
+
+#list(
+  [#strong[tduality] — spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries; archived release supporting our #emph[Proc. R. Soc. A] manuscript #linebreak()
+  #repo-link("https://github.com/dutykh/tduality/") #linebreak()
+  #link("https://doi.org/10.5281/zenodo.22096405")],
+)
