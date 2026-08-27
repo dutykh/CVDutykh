@@ -27,7 +27,6 @@
   [D. Batic, #me and M. Sukaiti. #emph[A no-go result for regular GR-connected isotropic Morris–Thorne wormholes in $f(R, T) = R + sigma  R T$ gravity]. Submitted, 2026],  // Rejected by Eur. Phys. J. C (ID EPJC-26-05-359), 2026; transferred to Eur. Phys. J. Plus, still under review.
   [D. Batic, #me. #emph[Spectral Approximation Theory for Quasi-Normal Modes]. Submitted, 2026],
   [D. Batic, #me and J. Faraji. #emph[Spectral Method for Eigenvalue Problems in Quantum Mechanics]. Submitted, 2026],  // Under review at Math. Comput. Simul. (ID MATCOM-D-26-03158) since 01-Aug-2026, out for review as of 08-Aug-2026; received by transfer from Comput. Math. Appl. (ID CAMWA-D-26-01508), preceded by J. Comput. Phys. (ID JCOMP-D-26-01762), 2026.
-  [M. Zafar, P. Sabatier, #me, W. Rapuc, R. Paris, A. Piccin, P. Vuillemin and F. Anselmetti. #emph[Human-Enhanced Tsunami Hazard in Large Lakes]. Submitted, 2025],
 ))
 
 === Books
@@ -46,6 +45,7 @@
   yd("2027"),
   [A. Deeb and #me. #emph[Error estimation for numerical approximations of ODEs via composition techniques. Part I: One-step methods]. #venue[Comput. Appl. Math.], #strong[46], 33, 2027 #linebreak() #link("https://doi.org/10.1007/s40314-026-03864-5") #linebreak() #link("https://arxiv.org/abs/2409.10548/")],
   yd("2026"),
+  [M. Zafar, P. Sabatier, #me, W. Rapuc, R. Paris, A. Piccin, P. Vuillemin and F. Anselmetti. #emph[Human-Enhanced Tsunami Hazard in Large Lakes]. Accepted to #venue[Nat. Commun.], 2026],  // Accepted in principle by Nature Communications (ID NCOMMS-26-002061A), 26-Aug-2026; final revisions pending before resubmission: two minor wording corrections requested by Reviewer #3 plus the editorial Author Checklist and portfolio form. Open access, APC applies.
   [D. Batic and #me. #emph[Spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries]. Accepted to #venue[Proc. R. Soc. A], 2026],  // Accepted subject to minor revisions by Proc. R. Soc. A (ID RSPA-2026-0600), 17-Aug-2026; revision resubmitted (ID RSPA-2026-0600.R1), 22-Aug-2026; unsubmitted by the editorial office, 25-Aug-2026, pending a Zenodo archive of the supporting repository (github.com/dutykh/tduality) and an updated data-availability statement; requirement met and R1 resubmitted, 25-Aug-2026.
   [S. Mukherjee, L. Vuillon, #me and I. Tsanakas. #emph[Scalable weather data reduction for solar PV analysis using graph-based approach]. Accepted to #venue[Energy Systems], 2026 #linebreak() #link("https://hal.science/hal-05235714/")],
   [D. Batic and #me. #emph[Quasinormal Modes of Gauss–Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations]. #venue[Phys. Rev. D], #strong[114], 044015, 2026 #linebreak() #link("https://doi.org/10.1103/91q6-r3jd") #linebreak() #link("https://arxiv.org/abs/2608.06083/")],
