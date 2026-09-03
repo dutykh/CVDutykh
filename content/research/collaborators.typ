@@ -6,6 +6,8 @@
 
 The total number: #strong[234] #emph[(in alphabetical order)]:
 
+#text(size: 0.92em, fill: muted)[The dagger #sym.dagger marks colleagues who have passed away (#emph[in memoriam]).]
+
 #text(size: 0.93em)[
 #set terms(spacing: 0.5em, hanging-indent: 0.8em)
 #multicol(2, gutter: 1.3em)[
@@ -40,7 +42,7 @@ The total number: #strong[234] #emph[(in alphabetical order)]:
 / Sonya #sc[Beisel]: Institute of Computational Technologies, Novosibirsk, Russia
 / Rafik #sc[Belarbi]: Laboratoire des Sciences de l’Ingénieur pour l’Environnement (LaSIE UMR 7356), Université de La Rochelle, La Rochelle, France
 / Julien #sc[Berger]: Laboratoire des Sciences de l’Ingénieur pour l’Environnement (LaSIE UMR 7356), Université de La Rochelle, La Rochelle, France
-/ Denis #sc[Blackmore]: Department of Mathematical Sciences, New Jersey Institute of Technology, New Jersey, USA
+/ Denis #sc[Blackmore]#inmem(years: [1943–2022]): Department of Mathematical Sciences, New Jersey Institute of Technology, New Jersey, USA
 / Christian #sc[Boehmer]: Department of Mathematics, University College London, UK
 / Stéphanie #sc[Bolik]: Labotatoire Physiologie Cellulaire et Végétale (LPCV), CEA, CNRS, INRA, Grenoble, France
 / Liliane #sc[Bou–Nassif]: Centre d’Énergétique et de Thermique de Lyon (CETHIL), INSA de Lyon, France
@@ -64,7 +66,7 @@ The total number: #strong[234] #emph[(in alphabetical order)]:
 / Benoît #sc[Colange]: CEA Grenoble/INES, Laboratory for Solar Systems (L2S), Le Bourget-du-Lac, France
 / Hervé #sc[Colin]: CEA Grenoble/INES, Laboratory for Solar Systems (L2S), Le Bourget-du-Lac, France
 / Thibaut #sc[Colinart]: Institut de Recherche Dupuy de Lôme, Université de Bretagne-Sud, Lorient, France
-/ Raymond P. #sc[Coppinger]: (formerly at) School of Cognitive Science, Hampshire College, Amherst, USA
+/ Raymond P. #sc[Coppinger]#inmem(years: [1937–2017]): (formerly at) School of Cognitive Science, Hampshire College, Amherst, USA
 / Alan S. #sc[Cornell]: Department of Physics, University of Johannesburg, Johannesburg, South Africa
 / Mikaël #sc[Cugnet]: CEA–INES, LITEN, DTS, Le Bourget-du-Lac, France
 / Sam #sc[Delamere]: Bates College, Lewiston, USA
@@ -215,7 +217,7 @@ The total number: #strong[234] #emph[(in alphabetical order)]:
 / Dmitry #sc[Senichev]: (formerly at) Nizhny Novgorod State Technical University, Nizhny Novgorod, Russia
 / Madhavan #sc[Shanmugavel]: Department of Mechatronics, SRM Institute of Science and Technology, Chennai, India
 / s. Hadi #sc[Shamsnia]: Department of Geophysics, Tehran University, Tehran, Iran
-/ Yuri #sc[Shokin]: Institute of Computational Technologies, Novosibirsk, Russia
+/ Yuri #sc[Shokin]#inmem(): Institute of Computational Technologies, Novosibirsk, Russia
 / Nina #sc[Shokina]: Rechenzentrum, Albert-Ludwigs-Universität Freiburg, Freiburg, Germany
 / Zaher Hossein #sc[Shomali]: Institute of Geophysics, University of Tehran, Tehran, Iran
 / Julia #sc[De Sigoyer]: University Grenoble Alpes, University Savoie Mont Blanc, CNRS, IRD, IFSTTAR, Grenoble, France

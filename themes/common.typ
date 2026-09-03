@@ -61,6 +61,17 @@
 #let emdash = sym.dash.em
 #let nbsp = sym.space.nobreak
 
+// In-memoriam marker for a collaborator who has passed away: a dagger set after
+// the surname, followed by the lifespan when it is known.
+#let inmem(years: none) = {
+  h(0.08em)
+  text(fill: muted, sym.dagger)
+  if years != none {
+    h(0.3em)
+    text(size: 0.88em, fill: muted)[(#years)]
+  }
+}
+
 // A hyperlink; colour is decided by each theme's `show link` rule.
 #let xlink(url, body) = link(url, body)
 
