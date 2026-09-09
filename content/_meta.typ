@@ -19,6 +19,7 @@
   "scientific computing",
 )
 // Explicitly-stated bibliometric facts (used by the Modern cover strip).
-#let cv-hindex = "42"
+#let cv-hindex = "43"
+#let cv-i10 = "145"
 #let cv-erdos = "3"
 #let cv-orcid = "0000-0001-5247-2788"

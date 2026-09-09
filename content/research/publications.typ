@@ -4,7 +4,8 @@
 == Publications
 
 - My #sc[Erdős] number: #strong[3]
-- My $h-$index#footnote[This information is retrieved from Google Scholar server.]: #strong[42]
+- My $h-$index#footnote[The $h-$ and $i 10-$indices are retrieved from Google Scholar server.]: #strong[43]
+- My $i 10-$index: #strong[145]
 - My ORCID number: 0000-0001-5247-2788
 - Citations statistics: #link("https://scholar.google.com/citations?user=cvOVca4AAAAJ")
 

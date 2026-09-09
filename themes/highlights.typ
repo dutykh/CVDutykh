@@ -91,11 +91,12 @@
   }
 
   // ---- headline stat cards ----------------------------------------------
+  // Nine cards on a 3x3 grid: output, then people, then impact.
   let cards = (
     ([Publications], pubtot), ([Journal articles], journals), ([Books], books),
     ([Collaborators], collab), ([Talks delivered], talks-total),
-    ([Students supervised], students-total), ([Patents], patents),
-    ([h-index], cv-hindex),
+    ([Students supervised], students-total),
+    ([Patents], patents), ([h-index], cv-hindex), ([i10-index], cv-i10),
   )
   let _card(label, value) = {
     let body = align(center)[
@@ -104,7 +105,7 @@
     ]
     if modern { box(fill: chip-bg, radius: 5pt, inset: (x: 6pt, y: 8pt), width: 100%, body) } else { body }
   }
-  grid(columns: (1fr,) * 4, column-gutter: 0.7em, row-gutter: 0.7em,
+  grid(columns: (1fr,) * 3, column-gutter: 0.7em, row-gutter: 0.7em,
     ..cards.map(c => _card(c.at(0), c.at(1))))
 
   v(1.0em)

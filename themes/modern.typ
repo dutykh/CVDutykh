@@ -105,8 +105,9 @@
   )
   v(1fr)
   // Quick-stats strip (explicit facts + exact counts of listed entries).
-  context grid(columns: (1fr,) * 4, column-gutter: 1em,
+  context grid(columns: (1fr,) * 5, column-gutter: 0.8em,
     _stat(cv-hindex, "h-index"),
+    _stat(cv-i10, "i10-index"),
     _stat(cv-erdos, [Erdős #No]),
     _stat(pub-counter.final().first(), "Publications"),
     _stat(collab-counter.final().first(), "Collaborators"),
