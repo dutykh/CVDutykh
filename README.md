@@ -38,7 +38,6 @@ content/                 shared sections for Classic + Modern (personal, awards,
 src/                     the three Typst entry files
 Classic|Modern|Short/build/   compiled PDFs (canonical URL paths — for compatibility)
 out/                     the same three PDFs gathered in one folder (convenience)
-legacy/                  the previous LaTeX sources (archived; still buildable from legacy/)
 ```
 
 ## Architecture

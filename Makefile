@@ -7,7 +7,6 @@
 #      Classic/build/ClassicFullCV-Dutykh.pdf
 #      Modern/build/ModernFullCV-Dutykh.pdf
 #      Short/build/ShortCV-Dutykh.pdf
-#  The archived LaTeX sources live in legacy/.
 # =============================================================================
 
 TYPST      ?= typst
