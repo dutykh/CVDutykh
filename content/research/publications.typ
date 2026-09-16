@@ -12,6 +12,7 @@
 === Preprints under review
 
 #pub-list(category: "Preprints under review", (
+  [D. Batic, #me and J.C.M. Hughes. #emph[Gravitational instantons under nonlinear curvature actions]. Submitted, 2026],  // Submitted to Commun. Math. Phys. (ID CIMP-D-26-01910), 16-Sep-2026; #me corresponding author (Editorial Manager account dduty); editorial assessment pending, peer review the next stage. Springer Open Choice offered at acceptance.
   [#me and L. Vuillon. #emph[Endpoint costs and balanced near-minimizers under Gaussian reflections]. Submitted, 2026],  // Submitted to Adv. Appl. Math. (Elsevier), 16-Sep-2026, article type "Article"; #me corresponding author, submitted through the Elsevier submission portal; confirmation email and Editorial Manager tracking to follow, editorial assessment the next stage.
   [#me and L. Vuillon. #emph[Fibonacci–Pell nearest gaps: an all-exponent classification and quadratic-unit orbit rigidity]. Submitted, 2026],  // Submitted to J. Number Theory (ID JNTH-D-26-01347), 2026, article type "General Number Theory"; assigned to handling editor L. Smajlovic, 11-Sep-2026, with the editorial assessment and referee assignment the next stage; progress trackable in Editorial Manager.
   [D. Batic and #me. #emph[Constant-$ell$ rotating-dust galaxy models, Part I: local realizability, sharp bounds, and global-completion constraints]. Submitted, 2026],  // Submitted to Commun. Math. Phys. (ID CIMP-D-26-01821) by D. Batic; co-author notification received 06-Sep-2026; editorial assessment pending.

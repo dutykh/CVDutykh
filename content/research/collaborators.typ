@@ -2,9 +2,9 @@
 
 == List of present and past collaborators:
 
-#collab-counter.update(234)
+#collab-counter.update(235)
 
-The total number: #strong[234] #emph[(in alphabetical order)]:
+The total number: #strong[235] #emph[(in alphabetical order)]:
 
 #text(size: 0.92em, fill: muted)[The dagger #sym.dagger marks colleagues who have passed away (#emph[in memoriam]).]
 
@@ -112,6 +112,7 @@ The total number: #strong[234] #emph[(in alphabetical order)]:
 / Nicolas #sc[Harrichhausen]: Department of Geological Sciences, University of Alaska Anchorage, Anchorage, Alaska, USA
 / Wahyudi #sc[Hasbi]: Research Center for Satellite Technology, National Research and Innovation Agency, Bogor, Indonesia
 / Mark #sc[Hoefer]: University of Colorado, Boulder, USA
+/ Jack C. M. #sc[Hughes]: Physics Department, Khalifa University of Science and Technology, Abu Dhabi, UAE
 / Matthew #sc[Hunt]: Warwick Mathematics Institute, University of Warwick, Coventry, UK
 / Adnan #sc[Ibrahimbegovic]: Université de Technologie de Compiègne, Compiègne, France
 / Boaz #sc[Ilan]: Applied Mathematics, School of Natural Sciences, UC Merced, Merced, USA
