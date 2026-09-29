@@ -68,7 +68,7 @@
   [M. Hunt and #me. #emph[Free Surface Waves in Electrohydrodynamics with Prescribed Vorticity Distribution]. #venue[Math. Methods Appl. Sci.], #strong[49]​(7), 7068–7081, 2026],
   [D. Batic, #me and M. Sukaiti. #emph[Exact Spinning Morris–Thorne Wormhole: Causal Structure, Shadows, and Multipole Moments]. #venue[Eur. Phys. J. C], #strong[86], 179, 2026 #linebreak() #link("http://arxiv.org/abs/2602.21906/")],
   [D. Batic, #me and F. Scardigli. #emph[Spectral Analysis of Quasinormal Modes of Planck Stars]. #venue[Eur. Phys. J. C], #strong[86], 165, 2026 #linebreak() #link("http://arxiv.org/abs/2602.19833/")],
-  [R. Escobedo, #me, and L. Spector. #emph[Modeling How Hunting Strategies and Pack Size Shape Each Other]. #venue[J. Theor. Biol.], #strong[623], 112390, 2026 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01182799/")],
+  [#me, R. Escobedo and L. Spector. #emph[Modeling How Hunting Strategies and Pack Size Shape Each Other]. #venue[J. Theor. Biol.], #strong[623], 112390, 2026 #linebreak() #link("https://hal.archives-ouvertes.fr/hal-01182799/")],
   yd("2025"),
   [M. Zafar, #me, R. Paris, R. Gastineau, J. De Sigoyer, E. Duarte, N. Ünsal, N. Harrichhausen, S. Falvard, M. Sahin and P. Sabatier. #emph[Strike-Slip Fault-Generated Paleotsunamis in Lake Iznik (NW Türkiye): Numerical Modeling Corroborated by Coastal Deposits]. #venue[Geophys. Res. Lett.], #strong[52]​(18), e2025GL117422, 2025 #linebreak() #link("https://hal.science/hal-05293993/")],
   [D. Batic, #me, and Z. Babou. #emph[Quasinormal modes of noncommutative geometry-inspired dirty black holes]. #venue[Proc. R. Soc. A], #strong[481]​(2318), 20250021, 2025 #linebreak() #link("https://arxiv.org/abs/2507.19107/")],
