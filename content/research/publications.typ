@@ -448,20 +448,26 @@
 === General audience articles
 
 #pub-list(category: "General audience articles", (
+  [E. Papadima. #emph[Κρυφή συμμετρία στις ταλαντώσεις πολυδιάστατων μαύρων τρυπών και πώς τη σπάει η θεωρία χορδών]. FOXreport.gr, 26 September 2026 #linebreak() #link("https://www.foxreport.gr/science/kryfi-symmetria-stis-talantoseis-polydiastaton-mavron-trypon-kai-pos-ti-spaei-theoria-chordon/85391/")],  // Greek science news on the Phys. Rev. D Gauss-Bonnet quasinormal-mode paper with D. Batic; image credited to #me.
   [#me. #emph[Higher-dimensional black holes hide an exact symmetry in their ringing, and string-inspired gravity breaks it]. Science X Dialog, #link("https://phys.org/")[Phys.org], September 24, 2026 #linebreak() #link("https://phys.org/news/2026-09-higher-dimensional-black-holes-exact.html")],  // Dialog piece on the Phys. Rev. D paper "Quasinormal modes of Gauss-Bonnet black holes via the spectral method: Scalar, vector, and tensor perturbations" (D. Batic et al., DOI 10.1103/91q6-r3jd, arXiv:2608.06083); edited by Lisa Lock, reviewed by Robert Egan.
+  [#me. #emph[Catching the wave: Disciplines unite to unearth a lake’s hidden history]. #link("https://kustreview.com/")[Khalifa University Science and Tech Review], 16 September 2026 #linebreak() #link("https://kustreview.com/catching-the-wave/")],  // Guest column on the Lake Aiguebelette paleotsunami study (J. Geophys. Res. Solid Earth, 2024).
+  [#emph[À l’USMB, des recherches sont menées pour optimiser la modélisation des systèmes photovoltaïques]. Université Savoie Mont Blanc, 25 juillet 2024 #linebreak() #link("https://www.univ-smb.fr/2024/07/25/a-lusmb-des-recherches-sont-menees-pour-optimiser-la-modelisation-des-systemes-photovoltaiques/")],
+  [#emph[Breakthrough Algorithm to Enhance Solar Panel Efficiency]. Khalifa University News, 15 July 2024 #linebreak() #link("https://www.ku.ac.ae/breakthrough-algorithm-to-enhance-solar-panel-efficiency")],
+  [#emph[Mathematical Model Leads to Discovery of 12,000-Year-Old Ancient Tsunami in Alpine Lake]. Khalifa University News, 4 June 2024 #linebreak() #link("https://www.ku.ac.ae/mathematical-model-leads-to-discovery-of-12000-year-old-ancient-tsunami-in-alpine-lake")],
+  [#emph[Un tsunami préhistorique dans les Alpes françaises : découverte et implications d’un glissement de terrain sous-lacustre de 11 700 ans]. Communiqué de presse, Université Savoie Mont Blanc, 30 mai 2024 #linebreak() #link("https://www.univ-smb.fr/wp-content/uploads/2024/06/cp-usmb-un-tsunami-prehistorique-dans-les-alpes-francaises-30-mai-2024.pdf")],
   [#link("https://www.univ-smb.fr/2020/12/09/classnerv-une-nouvelle-methode-extremement-efficace-pour-lanalyse-de-donnees/")[ClassNeRV, une nouvelle méthode extrêmement efficace pour l’analyse de données], Le Fil d’Actualité de l’Université Savoie Mont Blanc, December 9, 2020],
   [#link("http://www.scrivial.com/articles/a-dive-into-tsunami-the-terrifying-energy-it-possesses")[A dive into tsunami — the terrifying energy it possesses!] #link("http://www.scrivial.com/")[Scrivial.com], 2015],
+  [C. Acary-Robert, #me and M. Gisclon. #emph[Un modello per simulare numericamente le valanghe di neve]. Translation by Roberto Natalini, 22 March 2012 #linebreak() #text(size: 0.9em)[#link("https://maddmaths.simai.eu/divulgazione/un-modello-per-simulare-numericamente-le-valanghe-di-neve-2/")]],
   [C. Acary-Robert, D. Bresch and #me. #emph[Simulation d’avalanches de neige]. Actualités scientifiques de l’INSMI (CNRS), 14 mars 2012 #linebreak() #link("http://www.cnrs.fr/insmi/spip.php?article441")],
-  [C. Acary-Robert, #me and M. Gisclon. #emph[Un modello per simulare numericamente le valanghe di neve]. Translation by Roberto Natalini, 2011 #linebreak() #text(size: 0.9em)[#link("maddmaths.simai.eu/focus/un-modello-per-simulare-numericamente-le-valanghe-di-neve/")]],
-  [C. Acary-Robert, #me and M. Gisclon. #emph[Une approche pour simuler des avalanches de neige]. #link("http://images.math.cnrs.fr/")[Images des mathématiques], 28 décembre 2011 #linebreak() #link("http://images.math.cnrs.fr/Une-approche-pour-simuler-des.html")],
+  [C. Acary-Robert, #me and M. Gisclon. #emph[Une approche pour simuler des avalanches de neige]. #link("http://images.math.cnrs.fr/")[Images des mathématiques], 28 décembre 2011 #linebreak() #link("https://images.math.cnrs.fr/une-approche-pour-simuler-des-avalanches-de-neige/")],
   [#link("https://www.lemonde.fr/planete/article/2011/09/29/tsunamis-gare-aux-avalanches-et-a-la-deuxieme-vague_1580151_3244.html")[#emph[Tsunamis: gare aux “avalanches” et à la deuxième vague]]. Le Monde, 1#up[er] Octobre 2011],
   [#emph[New research may explain high runup from tsunami waves]. #link("http://physicsbuzz.physicscentral.com/2011/09/new-research-may-explain-high-runup.html")[PhysicsCentral], Blog of the American Physical Society. September, 19, 2011],
-  [#emph[Tsunami Puzzle Explained]. Physical Review Focus, 16 September 2011 #linebreak() #link("http://focus.aps.org/story/v28/st11")],
+  [#emph[Tsunami Puzzle Explained]. Physical Review Focus, 16 September 2011 #linebreak() #link("https://physics.aps.org/story/v28/st11")],
   [#emph[Tuned into Earth]. CNRS International Magazine, #strong[21], April 2011],
   [#emph[Quelle est la différence entre un tsunami et un raz-de-marée?], Slate.fr, 24 mars 2011 #linebreak() #link("http://www.slate.fr/story/36093/difference-tsunami-raz-de-maree")],
   [#emph[Les maths à l’écoute de la Terre]. Le Journal du CNRS, #No 245, juin 2010],
-  [#emph[Simuler une avalanche]. #link("http://www.larecherche.fr/")[La Recherche] N428 – Avril 2009],
-  [#emph[Springy sediments may amplify tsunamis]. Issue 2662 of #link("http://www.newscientist.com/")[New Scientist magazine], 25 June 2008, page 20],
+  [#emph[Simuler une avalanche]. #link("http://www.larecherche.fr/")[La Recherche] N428 – Avril 2009 #linebreak() #link("https://flipbook.larecherche.fr/simuler-une-avalanche/")],
+  [#emph[Springy sediments may amplify tsunamis]. Issue 2662 of #link("http://www.newscientist.com/")[New Scientist magazine], 25 June 2008, page 20 #linebreak() #link("https://www.newscientist.com/article/1894608-springy-sediments-may-amplify-tsunamis/")],
   [#emph[Comment naît un tsunami?], Le Mensuel de l’Université, #No 23, Février 2008],
 ))
 
