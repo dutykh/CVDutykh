@@ -354,6 +354,8 @@
 === Conference proceedings
 
 #pub-list(category: "Conference proceedings", (
+  yd("2026"),
+  [S. Mukherjee, L. Bou Nassif, H. Colin, S. Giroux-Julien, H. Pabiou, #me, L. Vuillon and I. Tsanakas. #emph[Physics-Informed Graph-Based Modelling to Support Performance Monitoring and Degradation Analysis of PV Systems], EU PVSEC 2026, #strong[020356], pp. 001–007, 2026 #linebreak() #link("https://userarea.eupvsec.org/proceedings/EU-PVSEC-2026/4DV.4.15/")],
   yd("2025"),
   [S. Mukherjee, L. Vuillon, L. Bou-Nassif, S. Giroux-Julien, H. Pabiou, #me and I. Tsanakas. #emph[Temporal Graph Neural Networks for Early Anomaly Detection and Performance Prediction via PV System Monitoring Data] in Proc. 42nd European Photovoltaic Solar Energy Conference and Exhibition (EU PVSEC 2025), Bilbao, Spain, 020338, pp. 001–003, 2025 #linebreak() #link("https://arxiv.org/abs/2512.03114/")],
   [M. Zafar, P. Sabatier, #me, H. Jomard, W. Rapuc, P. Lajeunesse and E. Chapron. #emph[Modeling earthquake-induced seiche process and subsequent homogenite deposits in lacustrine setting], EGU General Assembly 2025, Vienna, Austria, 27 Apr – 2 May 2025, EGU25-2461, 2025 #linebreak() #link("https://doi.org/10.5194/egusphere-egu25-2461/")],
@@ -367,7 +369,7 @@
   yd("2023"),
   [M. Bowen, P. Samozino, M. Vonderscher, #me and B. Morel. #emph[Development of a force-endurance model able to describe the muscle fatigability in the severe domain and validation of the RACLET test], 28#up[th] annual congress of the European College of Sport Science, Paris, France, 4–7 July 2023 #linebreak() #link("https://hal.science/hal-04084767/")],
   yd("2022"),
-  [C. Cardenas-Bravo, #me and D.L. Ha. #emph[Computation of Faulty IV Curves Based on a Distributed Solar Cell Algorithm], 8#up[th] World Conference on Photovoltaic Energy Conversion, Milano, Italy, 26–30 September 2022, pp. 701–703 #linebreak() #link("https://www.eupvsec-proceedings.com/proceedings?char=C&paper=50890")],
+  [C. Cárdenas-Bravo, #me and D.L. Ha. #emph[Computation of Faulty IV Curves Based on a Distributed Solar Cell Algorithm], 8#up[th] World Conference on Photovoltaic Energy Conversion, Milano, Italy, 26–30 September 2022, pp. 701–703 #linebreak() #link("https://userarea.eupvsec.org/proceedings/WCPEC-8/3BV.3.32/")],
   [M. Cugnet, F. Gallois, A. Kirchev and #me. #emph[Understanding self-discharge or what’s going on inside a lead-acid battery when nothing happens outside], AABC Europe — 12#up[th] International Advanced Automotive Battery Conference, 13 – 15 June 2022, Mainz, Germany #linebreak() #link("https://hal.insa-toulouse.fr/LITEN/cea-03715092/")],
   [I. Didenkulova, A. Abdalazeez, #me and P. Denissenko. #emph[Effects of coastal roughness on long wave runup], EGU General Assembly 2022, Vienna, Austria, 23 – 27 May 2022, EGU22-8520 #linebreak() #link("https://doi.org/10.5194/egusphere-egu22-8520/")],
   yd("2020"),
