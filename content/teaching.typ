@@ -112,7 +112,7 @@
 #clist(
   "stu-m2",
   [#strong[Aseel Alsaid #sc[Souliman]] (Khalifa University of Science and Technology) (May 2025 – May 2026), subject: “#emph[A framework combining optimal control and reduced order modeling for accelerated blood flow simulations]”. Co-supervision with Prof. Aymen #sc[Laadhari] (Khalifa University)],
-  [#strong[Joud Mohamad Mojahed #sc[Faraji]] (Khalifa University of Science and Technology) (May 2025 – May 2026), subject: “#emph[Applications of the spectral methods in quantum mechanics]”. Co-supervision with Prof. Davide #sc[Batic] (Khalifa University)],
+  [#strong[Joud Mohamad Mojahed #sc[Faraji]] (Khalifa University of Science and Technology) (May 2025 – May 2026), subject: “#emph[Applications of the spectral methods in quantum mechanics]”. Co-supervision with Prof. Davide #sc[Batic] (Khalifa University). Defended on the 2#up[nd] of November 2026.],
   [#strong[Florian #sc[Gallois]] (University Savoie Mont Blanc) (March 2021 – August 2021), subject: “#emph[Experimental validation of a two-electrode physical model and reduction of computational time vs. the empirical model]”. Co-supervision with Dr. Mikaël #sc[Cugnet] (CEA/INES)],
   [#strong[Florian #sc[Gallois]] (University Savoie Mont Blanc) (May 2021 – July 2021), CMI Project on the topic: “#emph[Numerical solution of unsteady advection–diffusion–reaction equations]”.],
   [#strong[Michelle #sc[Lee]] (University Savoie Mont Blanc) (April 2021 – September 2021), subject: “#emph[Data analysis in the context of solar energy deployment in urban areas]”. Co-supervision with Prof. Lamia #sc[Berrah] (LISTIC/USMB), Dr. Aurélie #sc[Foucquier] (CEA/INES) & Dr. Martin #sc[Thebault] (LOCIE/USMB)],
