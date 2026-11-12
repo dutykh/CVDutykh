@@ -163,7 +163,7 @@ Useful reference:
 === Quantum gravity & mathematical physics
 
 #list(
-  [#strong[tduality] — spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries; archived release supporting our #emph[Proc. R. Soc. A] manuscript #linebreak()
+  [#strong[tduality] — spectral Green functions for T-duality-regularised electrostatics in finite and bounded planar geometries; archived release supporting our article in #emph[Proc. R. Soc. A], #strong[482]​(2349), 20260600 (2026) #linebreak()
   #repo-link("https://github.com/dutykh/tduality/") #linebreak()
   #link("https://doi.org/10.5281/zenodo.22096405")],
 )
